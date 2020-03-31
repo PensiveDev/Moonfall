@@ -1,0 +1,17 @@
+Begin Object Class=/Script/Engine.AnimMontage Name="Climb_Montage"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfo Name="SceneThumbnailInfo_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfo_0"
+   End Object
+   BlendIn=(BlendTime=0.314286)
+   BlendOut=(BlendTime=0.304762)
+   BlendOutTriggerTime=-0.533333
+   CompositeSections(0)=(SectionName="Default",LinkedMontage=AnimMontage'"Climb_Montage"',SegmentIndex=0,SegmentLength=1.125000,LinkedSequence=AnimSequence'"/Game/ThirdPersonBP/Blueprints/Climb.Climb"')
+   SlotAnimTracks(0)=(AnimTrack=(AnimSegments=((AnimReference=AnimSequence'"/Game/ThirdPersonBP/Blueprints/Climb.Climb"',AnimEndTime=1.125000),(AnimReference=AnimSequence'"/Game/ThirdPersonBP/Blueprints/Crouch_to_Stand.Crouch_to_Stand"',StartPos=1.125000,AnimEndTime=0.625000))))
+   BranchingPointMarkers(0)=(NotifyIndex=0,TriggerTime=1.731712)
+   Notifies(0)=(NotifyName="ClimbingEnd",EndLink=(LinkValue=1.106046),MontageTickType=BranchingPoint,LinkedMontage=AnimMontage'"Climb_Montage"',SegmentIndex=1,SegmentBeginTime=1.125000,SegmentLength=0.625000,LinkValue=1.731712,LinkedSequence=AnimSequence'"/Game/ThirdPersonBP/Blueprints/Crouch_to_Stand.Crouch_to_Stand"')
+   SequenceLength=1.750000
+   AnimNotifyTracks(0)=(TrackName="1",TrackColor=(R=0.500000,G=0.500000,B=0.500000,A=1.000000))
+   Skeleton=Skeleton'"/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton"'
+   ThumbnailInfo=SceneThumbnailInfo'"SceneThumbnailInfo_0"'
+End Object
