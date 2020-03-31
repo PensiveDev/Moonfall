@@ -1,0 +1,1234 @@
+﻿Log file open, 03/20/20 11:04:39
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Moonfall
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.878302
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin PTMTool
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithDataPrepEditor
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Unreal/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.20-11.04.41:749][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.20-11.04.41:749][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.20-11.04.41:749][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Engine.ini]
+[2020.03.20-11.04.41:750][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.20-11.04.41:750][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Engine.ini]
+[2020.03.20-11.04.41:750][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Engine.ini]
+[2020.03.20-11.04.41:750][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.20-11.04.41:750][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.20-11.04.41:750][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.20-11.04.41:750][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.20-11.04.41:750][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.20-11.04.41:750][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.20-11.04.41:750][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.20-11.04.41:750][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.20-11.04.41:750][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.20-11.04.41:750][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.20-11.04.41:750][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.20-11.04.41:750][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.20-11.04.41:750][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.20-11.04.41:750][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Engine.ini]
+[2020.03.20-11.04.41:750][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.20-11.04.41:750][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.20-11.04.41:750][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.20-11.04.41:750][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.20-11.04.41:750][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.20-11.04.41:750][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.20-11.04.41:750][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.03.20-11.04.41:750][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.20-11.04.41:750][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.20-11.04.41:750][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.20-11.04.41:750][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.20-11.04.41:750][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.20-11.04.41:750][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.20-11.04.41:750][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Engine.ini]
+[2020.03.20-11.04.41:750][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Engine.ini]
+[2020.03.20-11.04.41:794][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Scalability.ini]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Scalability.ini]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Scalability.ini]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Scalability.ini]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.20-11.04.41:794][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.20-11.04.41:795][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.20-11.04.41:795][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.20-11.04.41:795][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Scalability.ini]
+[2020.03.20-11.04.41:795][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.20-11.04.41:795][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.20-11.04.41:795][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.20-11.04.41:795][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.20-11.04.41:795][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.20-11.04.41:795][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.20-11.04.41:795][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.20-11.04.41:795][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.20-11.04.41:795][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Scalability.ini]
+[2020.03.20-11.04.41:795][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.20-11.04.41:795][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.20-11.04.41:795][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.20-11.04.41:795][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.20-11.04.41:795][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.20-11.04.41:795][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.20-11.04.41:795][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.20-11.04.41:795][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.20-11.04.41:795][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.20-11.04.41:795][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.20-11.04.41:795][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.20-11.04.41:795][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.20-11.04.41:795][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.20-11.04.41:795][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Scalability.ini]
+[2020.03.20-11.04.41:795][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.20-11.04.41:795][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.20-11.04.41:803][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.20-11.04.41:804][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.20-11.04.41:841][  0]LogHAL: Display: Platform has ~ 16 GB [17035571200 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.20-11.04.41:842][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.03.20-11.04.41:842][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.20-11.04.41:842][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Scalability.ini]
+[2020.03.20-11.04.41:842][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.20-11.04.41:842][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.20-11.04.41:842][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Scalability.ini]
+[2020.03.20-11.04.41:842][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.20-11.04.41:842][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Scalability.ini]
+[2020.03.20-11.04.41:842][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.20-11.04.41:842][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.20-11.04.41:842][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.20-11.04.41:842][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.20-11.04.41:842][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.20-11.04.41:842][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.20-11.04.41:842][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.20-11.04.41:842][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.20-11.04.41:842][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.20-11.04.41:842][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.20-11.04.41:842][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.20-11.04.41:842][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.20-11.04.41:842][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.20-11.04.41:842][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.20-11.04.41:842][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.20-11.04.41:842][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.20-11.04.41:842][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.20-11.04.41:842][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.20-11.04.41:842][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Scalability.ini]
+[2020.03.20-11.04.41:842][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Scalability.ini]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Scalability.ini]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Scalability.ini]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.20-11.04.41:843][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.20-11.04.41:891][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.20-11.04.41:891][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.20-11.04.41:891][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Engine.ini]
+[2020.03.20-11.04.41:898][  0]LogInit: Computer: DESKTOP-2NR7M78
+[2020.03.20-11.04.41:898][  0]LogInit: User: RhysDavies
+[2020.03.20-11.04.41:898][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.03.20-11.04.41:898][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.20-11.04.41:899][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.03.20-11.04.41:899][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.20-11.04.41:899][  0]LogMemory: Process Physical Memory: 101.84 MB used, 101.85 MB peak
+[2020.03.20-11.04.41:899][  0]LogMemory: Process Virtual Memory: 90.12 MB used, 90.12 MB peak
+[2020.03.20-11.04.41:899][  0]LogMemory: Physical Memory: 12852.66 MB used,  3393.73 MB free, 16246.39 MB total
+[2020.03.20-11.04.41:899][  0]LogMemory: Virtual Memory: 4661.05 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2020.03.20-11.04.43:043][  0]LogInit: Using OS detected language (en-GB).
+[2020.03.20-11.04.43:043][  0]LogInit: Using OS detected locale (en-GB).
+[2020.03.20-11.04.43:066][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.03.20-11.04.43:752][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.20-11.04.44:119][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.20-11.04.44:119][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.20-11.04.47:194][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.20-11.04.47:194][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.20-11.04.47:324][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2020.03.20-11.04.47:324][  0]LogD3D11RHI:       8082/0/8123 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.03.20-11.04.47:366][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.03.20-11.04.47:366][  0]LogD3D11RHI:       128/0/8123 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.03.20-11.04.47:374][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.20-11.04.47:374][  0]LogD3D11RHI:       0/0/8123 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.20-11.04.47:374][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.20-11.04.47:388][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.20-11.04.47:389][  0]LogD3D11RHI:     GPU DeviceId: 0x1be1 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.20-11.04.47:389][  0]LogWindows: EnumDisplayDevices:
+[2020.03.20-11.04.47:389][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2020.03.20-11.04.47:390][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.03.20-11.04.47:390][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.03.20-11.04.47:391][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.03.20-11.04.47:391][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.03.20-11.04.47:392][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.03.20-11.04.47:392][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.03.20-11.04.47:392][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.03.20-11.04.47:393][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2020.03.20-11.04.47:393][  0]LogD3D11RHI:   Driver Version: 431.53 (internal:26.21.14.3153, unified:431.53)
+[2020.03.20-11.04.47:393][  0]LogD3D11RHI:      Driver Date: 7-12-2019
+[2020.03.20-11.04.47:393][  0]LogRHI: Texture pool is 5657 MB (70% of 8082 MB)
+[2020.03.20-11.04.47:452][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.20-11.04.47:663][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.20-11.04.47:663][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.20-11.04.47:663][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.20-11.04.47:674][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.03.20-11.04.49:586][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.03.20-11.04.49:669][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.03.20-11.04.49:783][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.03.20-11.04.49:827][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.03.20-11.04.49:988][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.03.20-11.04.50:068][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.03.20-11.04.50:125][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.20-11.04.50:235][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.03.20-11.04.50:273][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.03.20-11.04.50:489][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.03.20-11.04.50:489][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.03.20-11.04.50:489][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.03.20-11.04.50:489][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.03.20-11.04.50:489][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.03.20-11.04.50:489][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.03.20-11.04.50:489][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.03.20-11.04.50:489][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.03.20-11.04.50:489][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.03.20-11.04.50:489][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.20-11.04.50:489][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.03.20-11.04.50:489][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.03.20-11.04.50:489][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.20-11.04.50:489][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.20-11.04.50:489][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.20-11.04.50:489][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.20-11.04.50:489][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.03.20-11.04.50:489][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.03.20-11.04.50:605][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.03.20-11.04.50:886][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.03.20-11.04.50:886][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.03.20-11.04.50:965][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.03.20-11.04.50:965][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.03.20-11.04.51:021][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.03.20-11.04.51:074][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.20-11.04.51:144][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.03.20-11.04.51:212][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.03.20-11.04.51:308][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.03.20-11.04.51:308][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.03.20-11.04.51:308][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.20-11.04.51:721][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.20-11.04.52:869][  0]LogShaderCompilers: Guid format shader working directory is 18 characters bigger than the processId version (E:/Year 2 Unreal Projects/Moonfall/Intermediate/Shaders/WorkingDirectory/5656/).
+[2020.03.20-11.04.52:869][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Rhys Davies/AppData/Local/Temp/UnrealShaderWorkingDir/1B0CF16A4462AC95AD9640801AB31C74/'.
+[2020.03.20-11.04.52:926][  0]LogXGEController: Cleaning working directory: C:/Users/Rhys Davies/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.03.20-11.04.52:926][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.20-11.04.52:928][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.20-11.04.52:928][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.20-11.04.56:889][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.20-11.04.57:002][  0]LogDerivedDataCache: Loaded boot cache 0.11s 72MB C:/Users/Rhys Davies/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.03.20-11.04.57:002][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Rhys Davies/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.03.20-11.04.57:002][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Year 2 Unreal Projects/Moonfall/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.20-11.04.57:002][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.20-11.04.57:002][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Year 2 Unreal Projects/Moonfall/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.20-11.04.57:002][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.20-11.04.57:081][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.20-11.04.57:140][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2020.03.20-11.04.57:154][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Rhys Davies/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.20-11.04.57:154][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.20-11.04.57:154][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.20-11.04.57:238][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.20-11.04.57:271][  0]LogSlate: Using FreeType 2.6.0
+[2020.03.20-11.04.57:327][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.20-11.04.58:081][  0]LogAssetRegistry: FAssetRegistry took 0.0342 seconds to start up
+[2020.03.20-11.05.00:791][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.20-11.05.02:829][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.20-11.05.02:829][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.20-11.05.02:829][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.20-11.05.02:829][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.20-11.05.02:829][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.20-11.05.03:198][  0]LogNetVersion: Moonfall 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 4263305695)
+[2020.03.20-11.05.08:688][  0]LogPackageLocalizationCache: Processed 17 localized package path(s) for 1 prioritized culture(s) in 0.105762 seconds
+[2020.03.20-11.05.08:723][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.03.20-11.05.08:723][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.03.20-11.05.08:723][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.20-11.05.20:595][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.20-11.05.20:640][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.20-11.05.21:576][  0]SourceControl: Source control is disabled
+[2020.03.20-11.05.26:487][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.20-11.05.27:396][  0]LogOcInput: OculusInput pre-init called
+[2020.03.20-11.05.33:408][  0]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2020.03.20-11.05.33:409][  0]LogWindows: File 'libalias_api.dll' does not exist
+[2020.03.20-11.05.33:410][  0]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2020.03.20-11.05.33:410][  0]LogWindows: File 'libalias_api.dll' does not exist
+[2020.03.20-11.05.34:381][  0]LogEngine: Initializing Engine...
+[2020.03.20-11.05.34:423][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.20-11.05.34:437][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.003 s
+[2020.03.20-11.05.35:146][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.20-11.05.35:460][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.20-11.05.35:670][  0]LogInit: XAudio2 using 'Headphones (MPOW-059 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.20-11.05.35:713][  0]LogInit: FAudioDevice initialized.
+[2020.03.20-11.05.35:721][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.20-11.05.35:799][  0]LogDerivedDataCache: Saved boot cache 0.08s 72MB C:/Users/Rhys Davies/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.03.20-11.05.35:808][  0]LogInit: Texture streaming: Enabled
+[2020.03.20-11.05.36:052][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.20-11.05.36:163][  0]LogInit: Transaction tracking system initialized
+[2020.03.20-11.05.36:369][  0]BlueprintLog: New page: Editor Load
+[2020.03.20-11.05.37:783][  0]LocalizationService: Localization service is disabled
+[2020.03.20-11.05.40:325][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.20-11.05.40:325][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.20-11.05.40:558][  0]LogFileCache: Scanning file cache for directory 'E:/Year 2 Unreal Projects/Moonfall/Content/' took 0.05s
+[2020.03.20-11.05.44:866][  0]Cmd: MAP LOAD FILE="E:/Year 2 Unreal Projects/Moonfall/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.20-11.05.44:867][  0]LightingResults: New page: Lighting Build
+[2020.03.20-11.05.44:959][  0]MapCheck: New page: Map Check
+[2020.03.20-11.05.44:959][  0]LightingResults: New page: Lighting Build
+[2020.03.20-11.05.45:198][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.03.20-11.05.46:915][  0]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.05.47:049][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.20-11.05.47:724][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.20-11.05.47:826][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.03.20-11.05.47:834][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.20-11.05.47:840][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 5.124ms to complete.
+[2020.03.20-11.05.47:840][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 2.974
+[2020.03.20-11.05.49:190][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-11.05.49:200][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-11.05.49:212][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-11.05.49:225][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-11.05.49:364][  0]LogCollectionManager: Loaded 0 collections in 0.001514 seconds
+[2020.03.20-11.05.49:580][  0]LogFileCache: Scanning file cache for directory 'E:/Year 2 Unreal Projects/Moonfall/Saved/Collections/' took 0.01s
+[2020.03.20-11.05.49:580][  0]LogFileCache: Scanning file cache for directory 'E:/Year 2 Unreal Projects/Moonfall/Content/Developers/RhysDavies/Collections/' took 0.01s
+[2020.03.20-11.05.49:580][  0]LogFileCache: Scanning file cache for directory 'E:/Year 2 Unreal Projects/Moonfall/Content/Collections/' took 0.01s
+[2020.03.20-11.05.49:580][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.03.20-11.05.49:593][  0]LogContentBrowser: Native class hierarchy populated in 0.0134 seconds. Added 2864 classes and 726 folders.
+[2020.03.20-11.05.49:714][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.03.20-11.05.49:807][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.20-11.05.49:847][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.20-11.05.49:886][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.20-11.05.49:921][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.20-11.05.49:938][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.20-11.05.49:951][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.20-11.05.49:969][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.20-11.05.49:985][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.20-11.05.50:060][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.20-11.05.50:087][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.20-11.05.50:105][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.20-11.05.50:111][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.20-11.05.50:128][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.20-11.05.50:143][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.20-11.05.50:157][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.20-11.05.50:169][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.20-11.05.50:208][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.20-11.05.50:264][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.20-11.05.50:295][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.20-11.05.50:343][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.20-11.05.50:383][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.20-11.05.50:568][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.20-11.05.50:583][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.20-11.05.50:603][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.20-11.05.50:620][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.20-11.05.50:667][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.20-11.05.50:713][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.20-11.05.50:746][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.20-11.05.51:705][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.20-11.05.51:758][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2020.03.20-11.05.52:179][  0]LogSlate: Took 0.016398 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.20-11.05.52:205][  0]LogSlate: Took 0.024598 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.20-11.05.52:277][  0]LogSlate: Took 0.018238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.20-11.05.52:717][  0]LogRenderer: Reallocating scene render targets to support 1012x524 Format 10 NumSamples 1 (Frame:1).
+[2020.03.20-11.05.53:512][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.20-11.05.53:513][  0]LogLoad: (Engine Initialization) Total time: 84.27 seconds
+[2020.03.20-11.05.53:513][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.20-11.05.53:814][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.20-11.05.54:090][  1]LogFileCache: Retrieving MD5 hashes for directory 'E:/Year 2 Unreal Projects/Moonfall/Content/' took 0.47s
+[2020.03.20-11.05.54:368][  2]LogAssetRegistry: Asset discovery search completed in 56.3102 seconds
+[2020.03.20-11.05.54:381][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.03.20-11.05.54:381][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000071 seconds (updated 0 objects)
+[2020.03.20-11.05.54:595][  9]LogSlate: Took 0.051885 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.20-11.05.56:844][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.20-11.05.57:801][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.20-11.05.57:859][381]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.20-11.05.57:904][381]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.20-11.05.57:924][381]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.20-11.05.57:924][381]PIE: New page: PIE session: ThirdPersonExampleMap (20 Mar 2020 11:05:57)
+[2020.03.20-11.05.57:978][381]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.20-11.05.58:002][381]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024007s)
+[2020.03.20-11.05.58:012][381]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.20-11.05.58:021][381]LogPlayLevel: PIE: World Init took: (0.018680s)
+[2020.03.20-11.05.58:021][381]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.043027s)
+[2020.03.20-11.05.58:051][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.03.20-11.05.58:122][381]LogInit: XAudio2 using 'Headphones (MPOW-059 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.20-11.05.58:141][381]LogInit: FAudioDevice initialized.
+[2020.03.20-11.05.58:205][381]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.20-11.05.58:223][381]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.03.20-11.05.58
+[2020.03.20-11.05.58:238][381]LogWorld: Bringing up level for play took: 0.022954
+[2020.03.20-11.05.58:441][381]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.03.20-11.05.58:491][381]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.457
+[2020.03.20-11.05.58:491][381]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.20-11.06.12:713][ 36]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.20-11.06.12:748][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-11.06.12:833][ 36]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.20-11.06.12:833][ 36]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.20-11.06.12:908][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-11.06.12:968][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.03.20-11.06.12:990][ 37]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.03.20-11.06.18:449][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.20-11.06.18:579][679]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.03.20-11.06.19:155][679]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.03.20-11.06.20:540][679]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_1:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:088A
+[2020.03.20-11.06.20:540][679]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_1:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:08BC
+[2020.03.20-11.06.20:540][679]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_1:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0BCD
+[2020.03.20-11.06.20:540][679]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_1:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0BFF
+[2020.03.20-11.06.20:555][679]LogSlate: Took 0.012542 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.20-11.06.21:026][680]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_1:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:088A
+[2020.03.20-11.06.21:026][680]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_1:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:08BC
+[2020.03.20-11.06.21:026][680]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_1:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0BCD
+[2020.03.20-11.06.21:026][680]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_1:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0BFF
+[2020.03.20-11.06.21:037][680]LogSlate: Took 0.004622 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.20-11.06.21:137][681]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_1:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:088A
+[2020.03.20-11.06.21:137][681]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_1:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:08BC
+[2020.03.20-11.06.21:137][681]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_1:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0BCD
+[2020.03.20-11.06.21:137][681]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_1:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0BFF
+[2020.03.20-11.06.21:150][682]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_1:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:088A
+[2020.03.20-11.06.21:150][682]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_1:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:08BC
+[2020.03.20-11.06.21:150][682]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_1:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0BCD
+[2020.03.20-11.06.21:150][682]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_1:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0BFF
+[2020.03.20-11.06.21:160][683]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_1:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:088A
+[2020.03.20-11.06.44:260][134]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.09.14:966][275]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2020.03.20-11.09.16:561][275]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.03.20-11.09.55:235][374]LogSlate: Window 'Project Settings' being destroyed
+[2020.03.20-11.09.55:277][374]LogSlate: Window 'Project Settings' being destroyed
+[2020.03.20-11.09.56:417][441]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.03.20-11.09.56:946][441]LogUObjectHash: Compacting FUObjectHashTables data took   5.78ms
+[2020.03.20-11.09.56:953][441]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:088A
+[2020.03.20-11.09.56:954][441]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:08BC
+[2020.03.20-11.09.56:954][441]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0BCD
+[2020.03.20-11.09.56:954][441]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0BFF
+[2020.03.20-11.09.56:955][441]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_0:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:088A
+[2020.03.20-11.09.56:955][441]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_0:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:08BC
+[2020.03.20-11.09.56:955][441]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_0:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0BCD
+[2020.03.20-11.09.56:955][441]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_0:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0BFF
+[2020.03.20-11.09.56:956][441]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_1:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:088A
+[2020.03.20-11.09.56:957][441]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_1:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:08BC
+[2020.03.20-11.09.56:957][441]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_1:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0BCD
+[2020.03.20-11.09.56:957][441]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_1:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0BFF
+[2020.03.20-11.09.56:987][441]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:088A
+[2020.03.20-11.09.56:987][441]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:08BC
+[2020.03.20-11.09.56:987][441]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0BCD
+[2020.03.20-11.09.56:987][441]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0BFF
+[2020.03.20-11.09.56:989][441]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_1:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:088A
+[2020.03.20-11.09.57:837][479]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.20-11.09.57:875][479]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.20-11.09.57:875][479]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.20-11.09.57:875][479]PIE: New page: PIE session: ThirdPersonExampleMap (20 Mar 2020 11:09:57)
+[2020.03.20-11.09.57:876][479]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.20-11.09.57:885][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009833s)
+[2020.03.20-11.09.57:886][479]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.20-11.09.57:886][479]LogPlayLevel: PIE: World Init took: (0.000632s)
+[2020.03.20-11.09.57:886][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010612s)
+[2020.03.20-11.09.57:931][479]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2020.03.20-11.09.57:965][479]LogInit: XAudio2 using 'Headphones (MPOW-059 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.20-11.09.57:982][479]LogInit: FAudioDevice initialized.
+[2020.03.20-11.09.57:994][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-11.09.58:069][479]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.20-11.09.58:072][479]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.03.20-11.09.58
+[2020.03.20-11.09.58:072][479]LogWorld: Bringing up level for play took: 0.001992
+[2020.03.20-11.09.58:088][479]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.054
+[2020.03.20-11.09.58:089][479]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.20-11.09.59:087][524]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack1
+[2020.03.20-11.10.01:177][645]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.20-11.10.01:177][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-11.10.01:189][645]LogSlate: Window 'Moonfall Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.20-11.10.01:262][645]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.20-11.10.01:262][645]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.20-11.10.01:304][645]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.03.20-11.10.01:461][646]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.03.20-11.10.05:698][900]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:149][927]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:170][928]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:190][929]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:203][930]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:226][931]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:239][932]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:254][933]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:270][934]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:285][935]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:302][936]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:319][937]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:336][938]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:352][939]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:369][940]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:386][941]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:402][942]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:419][943]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:435][944]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:452][945]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:469][946]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:485][947]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:502][948]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:519][949]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:536][950]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:553][951]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:570][952]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:586][953]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:602][954]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:619][955]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:636][956]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:653][957]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:670][958]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:685][959]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:702][960]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:719][961]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:735][962]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:753][963]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:771][964]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:787][965]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:802][966]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:819][967]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:835][968]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:852][969]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:868][970]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:885][971]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:903][972]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:919][973]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:935][974]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:952][975]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:968][976]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.06:985][977]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.07:002][978]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.07:019][979]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.07:035][980]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.07:052][981]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.07:068][982]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.07:085][983]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.07:102][984]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.07:119][985]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.07:136][986]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.07:155][987]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.07:169][988]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.07:186][989]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.07:203][990]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.07:220][991]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.07:235][992]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.07:252][993]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.07:269][994]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.07:285][995]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.07:306][996]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.07:319][997]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.07:339][998]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.08:456][ 60]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.08:689][ 74]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.08:706][ 75]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.08:722][ 76]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.08:739][ 77]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.08:756][ 78]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.08:775][ 79]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.08:790][ 80]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.08:807][ 81]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.08:823][ 82]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.08:841][ 83]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.08:857][ 84]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.08:873][ 85]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.08:889][ 86]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.08:908][ 87]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.08:923][ 88]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.08:940][ 89]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.08:957][ 90]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.08:973][ 91]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.08:990][ 92]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.09:006][ 93]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.09:023][ 94]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.09:040][ 95]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.09:062][ 96]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.09:073][ 97]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.09:090][ 98]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.09:111][ 99]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.10.10:125][159]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.03.20-11.10.10:400][159]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.03.20-11.10.10:993][182]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.20-11.10.11:028][182]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.20-11.10.11:028][182]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.20-11.10.11:028][182]PIE: New page: PIE session: ThirdPersonExampleMap (20 Mar 2020 11:10:11)
+[2020.03.20-11.10.11:028][182]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.20-11.10.11:042][182]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013563s)
+[2020.03.20-11.10.11:043][182]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.20-11.10.11:043][182]LogPlayLevel: PIE: World Init took: (0.000750s)
+[2020.03.20-11.10.11:043][182]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014477s)
+[2020.03.20-11.10.11:148][182]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.03.20-11.10.11:190][182]LogInit: XAudio2 using 'Headphones (MPOW-059 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.20-11.10.11:207][182]LogInit: FAudioDevice initialized.
+[2020.03.20-11.10.11:217][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-11.10.11:248][182]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.20-11.10.11:252][182]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.03.20-11.10.11
+[2020.03.20-11.10.11:252][182]LogWorld: Bringing up level for play took: 0.003168
+[2020.03.20-11.10.11:268][182]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.233
+[2020.03.20-11.10.11:268][182]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.20-11.10.11:755][200]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack1
+[2020.03.20-11.10.15:538][427]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack2
+[2020.03.20-11.10.17:189][526]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack1
+[2020.03.20-11.10.18:109][581]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack2
+[2020.03.20-11.10.18:525][606]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack1
+[2020.03.20-11.10.18:909][629]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack2
+[2020.03.20-11.10.19:375][657]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack1
+[2020.03.20-11.10.24:007][935]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.20-11.10.24:008][935]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-11.10.24:019][935]LogSlate: Window 'Moonfall Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.20-11.10.24:086][935]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.20-11.10.24:086][935]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.20-11.10.24:133][935]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.03.20-11.10.24:313][936]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.03.20-11.11.44:532][122]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.03.20-11.11.44:810][122]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2020.03.20-11.11.53:637][636]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.11.53:744][642]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.11.53:808][646]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.11.53:873][650]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.11.53:939][654]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.11.54:006][658]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.11.54:072][662]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.11.54:122][665]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.11.54:173][668]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.11.54:222][671]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.11.54:272][674]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.11.54:322][677]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.11.54:393][681]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.11.54:459][685]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.11.54:527][689]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.11.54:594][693]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.11.54:660][697]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.11.54:727][701]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.11.54:793][705]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.11.54:861][709]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.11.54:929][713]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.11.54:996][717]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.11.55:065][721]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.11.55:131][725]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.11.55:198][729]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.11.55:265][733]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.11.55:332][737]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.11.55:398][741]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.11.55:465][745]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.11.55:532][749]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.11.55:598][753]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.11.55:665][757]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.11.55:731][761]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.11.55:801][765]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.11.55:866][769]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.11.55:932][773]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.11.55:998][777]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.11.56:065][781]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.11.57:226][850]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2020.03.20-11.11.57:370][850]LogBlueprintActionDatabase: Requesting refresh due to module change: SkeletonEditor (loaded)
+[2020.03.20-11.11.57:371][850]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.03.20-11.11.57:899][850]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.20-11.11.57:930][850]LogBlueprintActionDatabase: Requesting refresh due to module change: PinnedCommandList (loaded)
+[2020.03.20-11.11.57:930][850]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2020.03.20-11.11.58:419][850]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.20-11.11.59:325][850]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.03.20-11.12.08:501][344]LogSlate: Window 'ThirdPerson_AnimBP' being destroyed
+[2020.03.20-11.12.08:534][345]LogRenderer: Reallocating scene render targets to support 1520x784 Format 10 NumSamples 1 (Frame:3647).
+[2020.03.20-11.12.09:637][400]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2020.03.20-11.12.10:121][400]LogUObjectHash: Compacting FUObjectHashTables data took   7.19ms
+[2020.03.20-11.12.10:154][400]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_1:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_2
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:06E1
+[2020.03.20-11.12.10:155][400]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_1:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_2
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0713
+[2020.03.20-11.12.10:155][400]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_1:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_2
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0A24
+[2020.03.20-11.12.10:155][400]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_1:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_2
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0A56
+[2020.03.20-11.12.10:316][401]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_1:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_2
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:06E1
+[2020.03.20-11.12.10:316][401]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_1:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_2
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0713
+[2020.03.20-11.12.10:316][401]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_1:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_2
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0A24
+[2020.03.20-11.12.10:316][401]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_1:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_2
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0A56
+[2020.03.20-11.12.10:356][402]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_1:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_2
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:06E1
+[2020.03.20-11.12.10:356][402]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_1:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_2
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0713
+[2020.03.20-11.12.10:356][402]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_1:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_2
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0A24
+[2020.03.20-11.12.10:356][402]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_1:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_2
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0A56
+[2020.03.20-11.12.10:382][403]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_1:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_2
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:06E1
+[2020.03.20-11.12.10:382][403]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_1:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_2
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0713
+[2020.03.20-11.12.10:382][403]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_1:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_2
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0A24
+[2020.03.20-11.12.10:382][403]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_1:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_2
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0A56
+[2020.03.20-11.12.10:410][404]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_1:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_2
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:06E1
+[2020.03.20-11.12.10:838][423]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.20-11.12.10:893][423]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.20-11.12.10:894][423]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.20-11.12.10:894][423]PIE: New page: PIE session: ThirdPersonExampleMap (20 Mar 2020 11:12:10)
+[2020.03.20-11.12.10:894][423]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.20-11.12.10:907][423]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012966s)
+[2020.03.20-11.12.10:908][423]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.20-11.12.10:908][423]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2020.03.20-11.12.10:908][423]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014110s)
+[2020.03.20-11.12.10:972][423]LogUObjectHash: Compacting FUObjectHashTables data took   8.78ms
+[2020.03.20-11.12.11:025][423]LogInit: XAudio2 using 'Headphones (MPOW-059 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.20-11.12.11:045][423]LogInit: FAudioDevice initialized.
+[2020.03.20-11.12.11:054][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-11.12.11:086][423]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.20-11.12.11:090][423]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.03.20-11.12.11
+[2020.03.20-11.12.11:091][423]LogWorld: Bringing up level for play took: 0.003216
+[2020.03.20-11.12.11:107][423]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.073
+[2020.03.20-11.12.11:108][423]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.20-11.12.12:469][477]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.20-11.12.13:193][508]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.20-11.12.13:809][535]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.20-11.12.14:369][560]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.20-11.12.16:807][664]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack1
+[2020.03.20-11.12.18:240][730]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.20-11.12.18:240][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-11.12.18:254][730]LogSlate: Window 'Moonfall Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.20-11.12.18:296][730]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.20-11.12.18:297][730]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.20-11.12.18:359][730]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2020.03.20-11.12.18:382][731]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.03.20-11.13.25:234][707]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.20-11.13.25:247][707]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.20-11.13.25:247][707]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.20-11.13.25:247][707]PIE: New page: PIE session: ThirdPersonExampleMap (20 Mar 2020 11:13:25)
+[2020.03.20-11.13.25:247][707]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.20-11.13.25:258][707]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010783s)
+[2020.03.20-11.13.25:258][707]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.20-11.13.25:259][707]LogPlayLevel: PIE: World Init took: (0.000925s)
+[2020.03.20-11.13.25:259][707]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011880s)
+[2020.03.20-11.13.25:308][707]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.03.20-11.13.25:346][707]LogInit: XAudio2 using 'Headphones (MPOW-059 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.20-11.13.25:360][707]LogInit: FAudioDevice initialized.
+[2020.03.20-11.13.25:368][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-11.13.25:403][707]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.20-11.13.25:407][707]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.03.20-11.13.25
+[2020.03.20-11.13.25:407][707]LogWorld: Bringing up level for play took: 0.003122
+[2020.03.20-11.13.25:424][707]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.389
+[2020.03.20-11.13.25:425][707]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.20-11.13.26:214][750]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.20-11.13.27:513][826]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.20-11.13.28:271][869]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.20-11.13.28:768][898]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.03.20-11.13.29:853][961]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.20-11.13.29:854][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-11.13.29:869][961]LogSlate: Window 'Moonfall Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.20-11.13.29:946][961]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.20-11.13.29:946][961]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.20-11.13.29:999][961]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.03.20-11.13.30:017][962]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.03.20-11.13.53:199][332]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.03.20-11.13.53:524][332]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2020.03.20-11.13.54:035][349]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.20-11.13.54:075][349]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.20-11.13.54:075][349]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.20-11.13.54:075][349]PIE: New page: PIE session: ThirdPersonExampleMap (20 Mar 2020 11:13:54)
+[2020.03.20-11.13.54:075][349]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.20-11.13.54:086][349]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010627s)
+[2020.03.20-11.13.54:086][349]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.20-11.13.54:086][349]LogPlayLevel: PIE: World Init took: (0.000687s)
+[2020.03.20-11.13.54:086][349]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011462s)
+[2020.03.20-11.13.54:145][349]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2020.03.20-11.13.54:183][349]LogInit: XAudio2 using 'Headphones (MPOW-059 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.20-11.13.54:197][349]LogInit: FAudioDevice initialized.
+[2020.03.20-11.13.54:209][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-11.13.54:245][349]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.20-11.13.54:247][349]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.03.20-11.13.54
+[2020.03.20-11.13.54:248][349]LogWorld: Bringing up level for play took: 0.002349
+[2020.03.20-11.13.54:263][349]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.772
+[2020.03.20-11.13.54:263][349]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.20-11.13.55:109][390]LogBlueprintUserMessages: [ThirdPersonCharacter_167] attack1
+[2020.03.20-11.13.55:625][421]LogBlueprintUserMessages: [ThirdPersonCharacter_167] attack2
+[2020.03.20-11.13.56:108][450]LogBlueprintUserMessages: [ThirdPersonCharacter_167] attack1
+[2020.03.20-11.13.56:592][479]LogBlueprintUserMessages: [ThirdPersonCharacter_167] attack2
+[2020.03.20-11.13.58:861][614]LogBlueprintUserMessages: [ThirdPersonCharacter_167] attack1
+[2020.03.20-11.13.59:427][648]LogBlueprintUserMessages: [ThirdPersonCharacter_167] attack2
+[2020.03.20-11.13.59:979][681]LogBlueprintUserMessages: [ThirdPersonCharacter_167] attack1
+[2020.03.20-11.14.04:074][925]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack2
+[2020.03.20-11.14.07:477][128]LogBlueprintUserMessages: [ThirdPersonCharacter_167] attack1
+[2020.03.20-11.14.08:009][160]LogBlueprintUserMessages: [ThirdPersonCharacter_167] attack2
+[2020.03.20-11.14.08:560][193]LogBlueprintUserMessages: [ThirdPersonCharacter_167] attack1
+[2020.03.20-11.14.09:542][252]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.20-11.14.09:542][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-11.14.09:556][252]LogSlate: Window 'Moonfall Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.20-11.14.09:632][252]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.20-11.14.09:632][252]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.20-11.14.09:687][252]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2020.03.20-11.14.09:878][253]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.03.20-11.14.13:075][442]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.14.13:341][458]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.14.13:359][459]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.14.13:374][460]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.14.13:392][461]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.14.13:411][462]LogAnimMontage: Warning: E:\Year 2 Unreal Projects\Moonfall\Content\Mannequin\Animations\Attack_LS_Focus.uasset: Branching Point 'IsAttacking_1' overlaps with 'IsAttacking_2' at time: -0.010000. One of them will not get triggered!
+[2020.03.20-11.17.29:060][145]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.20-11.17.29:074][145]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.20-11.17.29:074][145]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.20-11.17.29:074][145]PIE: New page: PIE session: ThirdPersonExampleMap (20 Mar 2020 11:17:29)
+[2020.03.20-11.17.29:074][145]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.20-11.17.29:088][145]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013820s)
+[2020.03.20-11.17.29:088][145]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.20-11.17.29:089][145]LogPlayLevel: PIE: World Init took: (0.000710s)
+[2020.03.20-11.17.29:089][145]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014682s)
+[2020.03.20-11.17.29:136][145]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.03.20-11.17.29:180][145]LogInit: XAudio2 using 'Headphones (MPOW-059 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.20-11.17.29:198][145]LogInit: FAudioDevice initialized.
+[2020.03.20-11.17.29:207][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-11.17.29:243][145]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.20-11.17.29:246][145]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.03.20-11.17.29
+[2020.03.20-11.17.29:246][145]LogWorld: Bringing up level for play took: 0.002385
+[2020.03.20-11.17.29:264][145]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.229
+[2020.03.20-11.17.29:264][145]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.20-11.17.31:083][252]LogBlueprintUserMessages: [ThirdPersonCharacter_167] attack1
+[2020.03.20-11.17.31:974][303]LogBlueprintUserMessages: [ThirdPersonCharacter_167] attack2
+[2020.03.20-11.17.32:593][340]LogBlueprintUserMessages: [ThirdPersonCharacter_167] attack1
+[2020.03.20-11.17.33:210][377]LogBlueprintUserMessages: [ThirdPersonCharacter_167] attack2
+[2020.03.20-11.17.36:093][548]LogBlueprintUserMessages: [ThirdPersonCharacter_167] attack1
+[2020.03.20-11.17.37:290][618]LogBlueprintUserMessages: [ThirdPersonCharacter_167] attack2
+[2020.03.20-11.17.38:603][696]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.20-11.17.38:603][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-11.17.38:616][696]LogSlate: Window 'Moonfall Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.20-11.17.38:692][696]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.20-11.17.38:693][696]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.20-11.17.38:750][696]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2020.03.20-11.17.38:765][697]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.03.20-11.18.38:915][292]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.20-11.18.38:929][292]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.20-11.18.38:929][292]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.20-11.18.38:929][292]PIE: New page: PIE session: ThirdPersonExampleMap (20 Mar 2020 11:18:38)
+[2020.03.20-11.18.38:929][292]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.20-11.18.38:941][292]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011533s)
+[2020.03.20-11.18.38:941][292]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.20-11.18.38:941][292]LogPlayLevel: PIE: World Init took: (0.000880s)
+[2020.03.20-11.18.38:941][292]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012624s)
+[2020.03.20-11.18.38:992][292]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.03.20-11.18.39:028][292]LogInit: XAudio2 using 'Headphones (MPOW-059 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.20-11.18.39:046][292]LogInit: FAudioDevice initialized.
+[2020.03.20-11.18.39:054][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-11.18.39:084][292]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.20-11.18.39:088][292]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.03.20-11.18.39
+[2020.03.20-11.18.39:088][292]LogWorld: Bringing up level for play took: 0.002926
+[2020.03.20-11.18.39:104][292]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.069
+[2020.03.20-11.18.39:104][292]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.20-11.18.42:835][512]LogBlueprintUserMessages: [ThirdPersonCharacter_167] attack1
+[2020.03.20-11.18.46:132][707]LogBlueprintUserMessages: [ThirdPersonCharacter_167] attack2
+[2020.03.20-11.18.46:667][739]LogBlueprintUserMessages: [ThirdPersonCharacter_167] attack1
+[2020.03.20-11.18.47:151][768]LogBlueprintUserMessages: [ThirdPersonCharacter_167] attack2
+[2020.03.20-11.18.47:637][797]LogBlueprintUserMessages: [ThirdPersonCharacter_167] attack1
+[2020.03.20-11.18.54:368][197]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Attack2
+[2020.03.20-11.18.57:756][399]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.20-11.18.57:757][399]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-11.18.57:771][399]LogSlate: Window 'Moonfall Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.20-11.18.57:844][399]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.20-11.18.57:844][399]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.20-11.18.57:904][399]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.03.20-11.18.57:920][400]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.03.20-11.19.11:124][179]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.03.20-11.19.11:458][179]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.03.20-11.19.11:980][194]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.20-11.19.12:023][194]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.20-11.19.12:023][194]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.20-11.19.12:023][194]PIE: New page: PIE session: ThirdPersonExampleMap (20 Mar 2020 11:19:12)
+[2020.03.20-11.19.12:024][194]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.20-11.19.12:034][194]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010096s)
+[2020.03.20-11.19.12:035][194]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.20-11.19.12:035][194]LogPlayLevel: PIE: World Init took: (0.000594s)
+[2020.03.20-11.19.12:035][194]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010842s)
+[2020.03.20-11.19.12:085][194]LogUObjectHash: Compacting FUObjectHashTables data took   5.86ms
+[2020.03.20-11.19.12:124][194]LogInit: XAudio2 using 'Headphones (MPOW-059 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.20-11.19.12:140][194]LogInit: FAudioDevice initialized.
+[2020.03.20-11.19.12:150][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-11.19.12:181][194]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.20-11.19.12:184][194]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.03.20-11.19.12
+[2020.03.20-11.19.12:184][194]LogWorld: Bringing up level for play took: 0.002445
+[2020.03.20-11.19.12:199][194]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.165
+[2020.03.20-11.19.12:199][194]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.20-11.19.13:145][241]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Fattack1
+[2020.03.20-11.19.13:763][278]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Fattack2
+[2020.03.20-11.19.14:179][303]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Fattack1
+[2020.03.20-11.19.14:429][318]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Fattack2
+[2020.03.20-11.19.14:712][335]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Fattack1
+[2020.03.20-11.19.14:946][349]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Fattack2
+[2020.03.20-11.19.15:112][359]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Fattack1
+[2020.03.20-11.19.15:329][372]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Fattack2
+[2020.03.20-11.19.15:529][384]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Fattack1
+[2020.03.20-11.19.15:713][395]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Fattack2
+[2020.03.20-11.19.15:880][405]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Fattack1
+[2020.03.20-11.19.17:046][475]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.20-11.19.17:046][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-11.19.17:058][475]LogSlate: Window 'Moonfall Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.20-11.19.17:129][475]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.20-11.19.17:129][475]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.20-11.19.17:180][475]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.03.20-11.19.17:353][476]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.03.20-11.19.29:530][197]LogUObjectBase: Warning: Object is not registered
+[2020.03.20-11.19.29:815][197]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.03.20-11.19.34:134][197]LogStats: FPlatformStackWalk::StackWalkAndDump -  4.319 s
+[2020.03.20-11.19.34:134][197]LogOutputDevice: Error: === Handled ensure: ===
+[2020.03.20-11.19.34:134][197]LogOutputDevice: Error: 
+[2020.03.20-11.19.34:134][197]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1156]
+[2020.03.20-11.19.34:134][197]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.03.20-11.19.34:134][197]LogOutputDevice: Error: Stack: 
+[2020.03.20-11.19.34:134][197]LogOutputDevice: Error: [Callstack] 0x00007ffe06ddc0c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.20-11.19.34:134][197]LogOutputDevice: Error: [Callstack] 0x00007ffe06656fee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.20-11.19.34:134][197]LogOutputDevice: Error: [Callstack] 0x00007ffe06664e00 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.20-11.19.34:134][197]LogOutputDevice: Error: [Callstack] 0x00007ffe047237f2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.03.20-11.19.34:134][197]LogOutputDevice: Error: [Callstack] 0x00007ffe037b5cfa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.03.20-11.19.34:134][197]LogOutputDevice: Error: [Callstack] 0x00007ffe03771e47 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.03.20-11.19.34:134][197]LogOutputDevice: Error: [Callstack] 0x00007ffe0ffe5984 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.20-11.19.34:135][197]LogOutputDevice: Error: [Callstack] 0x00007ffe101d15e3 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.20-11.19.34:135][197]LogOutputDevice: Error: [Callstack] 0x00007ffe1002d70b UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.20-11.19.34:135][197]LogOutputDevice: Error: [Callstack] 0x00007ffe1000af5a UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.20-11.19.34:135][197]LogOutputDevice: Error: [Callstack] 0x00007ffe10000287 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.20-11.19.34:135][197]LogOutputDevice: Error: [Callstack] 0x00007ffe54a9b726 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.20-11.19.34:135][197]LogOutputDevice: Error: [Callstack] 0x00007ffe54a8ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.20-11.19.34:135][197]LogOutputDevice: Error: [Callstack] 0x00007ffe54a9d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.20-11.19.34:135][197]LogOutputDevice: Error: [Callstack] 0x00007ffe54a8c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.20-11.19.34:135][197]LogOutputDevice: Error: [Callstack] 0x00007ffe90495c0d USER32.dll!UnknownFunction []
+[2020.03.20-11.19.34:135][197]LogOutputDevice: Error: [Callstack] 0x00007ffe90495602 USER32.dll!UnknownFunction []
+[2020.03.20-11.19.34:135][197]LogOutputDevice: Error: [Callstack] 0x00007ffe54a9e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.20-11.19.34:135][197]LogOutputDevice: Error: [Callstack] 0x00007ff6edca5d3e UE4Editor.exe!UnknownFunction []
+[2020.03.20-11.19.34:135][197]LogOutputDevice: Error: [Callstack] 0x00007ff6edcb554c UE4Editor.exe!UnknownFunction []
+[2020.03.20-11.19.34:135][197]LogOutputDevice: Error: [Callstack] 0x00007ff6edcb55ca UE4Editor.exe!UnknownFunction []
+[2020.03.20-11.19.34:135][197]LogOutputDevice: Error: [Callstack] 0x00007ff6edcc316c UE4Editor.exe!UnknownFunction []
+[2020.03.20-11.19.34:135][197]LogOutputDevice: Error: [Callstack] 0x00007ff6edcc5b8e UE4Editor.exe!UnknownFunction []
+[2020.03.20-11.19.34:135][197]LogOutputDevice: Error: [Callstack] 0x00007ffe92137bd4 KERNEL32.DLL!UnknownFunction []
+[2020.03.20-11.19.34:135][197]LogOutputDevice: Error: [Callstack] 0x00007ffe9232ced1 ntdll.dll!UnknownFunction []
+[2020.03.20-11.19.34:135][197]LogOutputDevice: Error: 
+[2020.03.20-11.19.34:161][197]LogStats:                SubmitErrorReport -  0.000 s
