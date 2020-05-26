@@ -1,0 +1,1606 @@
+﻿Log file open, 05/20/20 12:52:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Moonfall
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.947705
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithDataPrepEditor
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Unreal/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.20-11.52.23:603][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.20-11.52.23:603][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.20-11.52.23:603][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Engine.ini]
+[2020.05.20-11.52.23:603][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.20-11.52.23:603][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.05.20-11.52.23:603][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Engine.ini]
+[2020.05.20-11.52.23:603][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Engine.ini]
+[2020.05.20-11.52.23:603][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.20-11.52.23:603][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.20-11.52.23:603][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.20-11.52.23:603][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.20-11.52.23:603][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.20-11.52.23:603][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.20-11.52.23:603][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.20-11.52.23:603][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.20-11.52.23:603][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.20-11.52.23:603][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.20-11.52.23:603][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.20-11.52.23:603][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.20-11.52.23:603][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.20-11.52.23:603][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Engine.ini]
+[2020.05.20-11.52.23:603][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.20-11.52.23:603][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.20-11.52.23:603][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.20-11.52.23:603][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.20-11.52.23:603][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.20-11.52.23:603][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.20-11.52.23:603][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.05.20-11.52.23:603][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.20-11.52.23:603][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.20-11.52.23:603][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.20-11.52.23:603][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.20-11.52.23:603][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.20-11.52.23:603][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.20-11.52.23:603][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Engine.ini]
+[2020.05.20-11.52.23:603][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Engine.ini]
+[2020.05.20-11.52.23:654][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.20-11.52.23:654][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.20-11.52.23:654][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.20-11.52.23:654][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.20-11.52.23:654][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.20-11.52.23:655][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.20-11.52.23:655][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.20-11.52.23:655][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.20-11.52.23:655][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.20-11.52.23:655][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.20-11.52.23:655][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.20-11.52.23:655][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.20-11.52.23:655][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.20-11.52.23:655][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.20-11.52.23:655][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.20-11.52.23:655][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-11.52.23:655][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.20-11.52.23:655][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.20-11.52.23:655][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.20-11.52.23:655][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.20-11.52.23:655][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.20-11.52.23:655][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.20-11.52.23:655][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.20-11.52.23:655][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.20-11.52.23:655][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-11.52.23:655][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.20-11.52.23:655][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.20-11.52.23:655][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.20-11.52.23:655][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.20-11.52.23:655][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.20-11.52.23:655][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.20-11.52.23:655][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.20-11.52.23:655][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.20-11.52.23:655][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.20-11.52.23:655][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.20-11.52.23:655][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.20-11.52.23:655][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.20-11.52.23:655][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.20-11.52.23:655][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-11.52.23:655][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.20-11.52.23:655][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.20-11.52.23:679][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.20-11.52.23:679][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.20-11.52.23:745][  0]LogHAL: Display: Platform has ~ 16 GB [17035571200 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.20-11.52.23:756][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.05.20-11.52.23:756][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.20-11.52.23:759][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-11.52.23:759][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.20-11.52.23:759][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.20-11.52.23:759][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-11.52.23:759][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.20-11.52.23:759][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-11.52.23:759][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.20-11.52.23:759][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.20-11.52.23:759][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.20-11.52.23:759][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.20-11.52.23:759][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.20-11.52.23:759][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.20-11.52.23:759][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.20-11.52.23:759][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.20-11.52.23:759][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.20-11.52.23:759][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.20-11.52.23:759][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.20-11.52.23:759][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.20-11.52.23:759][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.20-11.52.23:759][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.20-11.52.23:759][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.20-11.52.23:759][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.20-11.52.23:759][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.20-11.52.23:759][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.20-11.52.23:759][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-11.52.23:759][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.20-11.52.23:759][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.20-11.52.23:759][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.20-11.52.23:759][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.20-11.52.23:759][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.20-11.52.23:759][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.20-11.52.23:759][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.20-11.52.23:759][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.20-11.52.23:759][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.20-11.52.23:759][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.20-11.52.23:759][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.20-11.52.23:759][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.20-11.52.23:759][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.20-11.52.23:759][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.20-11.52.23:759][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.20-11.52.23:759][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.20-11.52.23:759][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.20-11.52.23:760][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.20-11.52.23:760][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.20-11.52.23:760][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.20-11.52.23:760][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.20-11.52.23:760][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.20-11.52.23:760][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.20-11.52.23:760][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.20-11.52.23:760][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.20-11.52.23:760][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.20-11.52.23:760][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.20-11.52.23:760][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.20-11.52.23:760][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.20-11.52.23:760][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.20-11.52.23:760][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-11.52.23:760][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.20-11.52.23:760][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.20-11.52.23:760][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.20-11.52.23:760][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.20-11.52.23:760][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.20-11.52.23:760][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.20-11.52.23:760][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.20-11.52.23:760][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.20-11.52.23:760][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-11.52.23:760][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.20-11.52.23:760][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.20-11.52.23:760][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.20-11.52.23:760][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.20-11.52.23:760][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.20-11.52.23:760][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.20-11.52.23:760][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.20-11.52.23:760][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.20-11.52.23:760][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.20-11.52.23:760][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.20-11.52.23:760][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.20-11.52.23:760][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.20-11.52.23:760][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.20-11.52.23:760][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-11.52.23:760][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.20-11.52.23:760][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.20-11.52.23:760][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.20-11.52.23:803][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.20-11.52.23:803][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.20-11.52.23:803][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Year 2 Unreal Projects/Moonfall/Saved/Config/Windows/Engine.ini]
+[2020.05.20-11.52.23:819][  0]LogInit: Computer: DESKTOP-2NR7M78
+[2020.05.20-11.52.23:819][  0]LogInit: User: RhysDavies
+[2020.05.20-11.52.23:819][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.05.20-11.52.23:819][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.20-11.52.23:819][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.05.20-11.52.23:819][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.20-11.52.23:819][  0]LogMemory: Process Physical Memory: 102.67 MB used, 102.68 MB peak
+[2020.05.20-11.52.23:819][  0]LogMemory: Process Virtual Memory: 87.78 MB used, 87.78 MB peak
+[2020.05.20-11.52.23:819][  0]LogMemory: Physical Memory: 11218.15 MB used,  5028.24 MB free, 16246.39 MB total
+[2020.05.20-11.52.23:819][  0]LogMemory: Virtual Memory: 4658.66 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2020.05.20-11.52.25:015][  0]LogInit: Using OS detected language (en-GB).
+[2020.05.20-11.52.25:015][  0]LogInit: Using OS detected locale (en-GB).
+[2020.05.20-11.52.25:036][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.05.20-11.52.25:574][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.20-11.52.25:929][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.20-11.52.25:929][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.20-11.52.28:545][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.20-11.52.28:545][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.20-11.52.28:739][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2020.05.20-11.52.28:739][  0]LogD3D11RHI:       8082/0/8123 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.05.20-11.52.28:937][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.05.20-11.52.28:937][  0]LogD3D11RHI:       128/0/8123 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.05.20-11.52.28:944][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.20-11.52.28:944][  0]LogD3D11RHI:       0/0/8123 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.20-11.52.28:944][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.20-11.52.28:953][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.20-11.52.28:953][  0]LogD3D11RHI:     GPU DeviceId: 0x1be1 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.20-11.52.28:953][  0]LogWindows: EnumDisplayDevices:
+[2020.05.20-11.52.28:953][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2020.05.20-11.52.28:954][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.05.20-11.52.28:954][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.05.20-11.52.28:955][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.05.20-11.52.28:955][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.05.20-11.52.28:956][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.05.20-11.52.28:956][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.05.20-11.52.28:956][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.05.20-11.52.28:956][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2020.05.20-11.52.28:956][  0]LogD3D11RHI:   Driver Version: 431.53 (internal:26.21.14.3153, unified:431.53)
+[2020.05.20-11.52.28:956][  0]LogD3D11RHI:      Driver Date: 7-12-2019
+[2020.05.20-11.52.28:956][  0]LogRHI: Texture pool is 5657 MB (70% of 8082 MB)
+[2020.05.20-11.52.29:008][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.20-11.52.29:098][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.20-11.52.29:098][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.20-11.52.29:098][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.20-11.52.29:107][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.20-11.52.30:015][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.05.20-11.52.30:067][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.05.20-11.52.30:103][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.05.20-11.52.30:137][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.05.20-11.52.30:199][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.05.20-11.52.30:256][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.05.20-11.52.30:303][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.20-11.52.30:342][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.05.20-11.52.30:363][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.05.20-11.52.30:468][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.05.20-11.52.30:468][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.05.20-11.52.30:468][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.05.20-11.52.30:468][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.05.20-11.52.30:468][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.05.20-11.52.30:468][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.05.20-11.52.30:468][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.05.20-11.52.30:468][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.05.20-11.52.30:468][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.05.20-11.52.30:468][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.20-11.52.30:468][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.05.20-11.52.30:468][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.05.20-11.52.30:468][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.20-11.52.30:468][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.20-11.52.30:468][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.20-11.52.30:468][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.20-11.52.30:468][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.05.20-11.52.30:468][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.05.20-11.52.30:500][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.05.20-11.52.30:673][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.05.20-11.52.30:673][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.05.20-11.52.30:734][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.05.20-11.52.30:734][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.05.20-11.52.30:775][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.05.20-11.52.30:808][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.20-11.52.30:841][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.05.20-11.52.30:875][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.05.20-11.52.30:949][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.05.20-11.52.30:949][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.05.20-11.52.30:949][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.20-11.52.31:340][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.20-11.52.32:423][  0]LogShaderCompilers: Guid format shader working directory is 17 characters bigger than the processId version (E:/Year 2 Unreal Projects/Moonfall/Intermediate/Shaders/WorkingDirectory/16456/).
+[2020.05.20-11.52.32:423][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Rhys Davies/AppData/Local/Temp/UnrealShaderWorkingDir/114A87B6447C2D0A998588B46E2CAD6B/'.
+[2020.05.20-11.52.32:455][  0]LogXGEController: Cleaning working directory: C:/Users/Rhys Davies/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.05.20-11.52.32:455][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.20-11.52.32:456][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.20-11.52.32:456][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.20-11.52.36:032][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.20-11.52.36:140][  0]LogDerivedDataCache: Loaded boot cache 0.11s 89MB C:/Users/Rhys Davies/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.05.20-11.52.36:140][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Rhys Davies/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.05.20-11.52.36:141][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Year 2 Unreal Projects/Moonfall/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.20-11.52.36:141][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.20-11.52.36:141][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Year 2 Unreal Projects/Moonfall/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.20-11.52.36:141][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.20-11.52.36:217][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.20-11.52.36:264][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2020.05.20-11.52.36:277][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Rhys Davies/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.20-11.52.36:277][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.20-11.52.36:277][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.20-11.52.36:485][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.20-11.52.36:509][  0]LogSlate: Using FreeType 2.6.0
+[2020.05.20-11.52.36:564][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.20-11.52.37:264][  0]LogAssetRegistry: FAssetRegistry took 0.0344 seconds to start up
+[2020.05.20-11.52.38:848][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.20-11.52.40:449][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.20-11.52.40:449][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.20-11.52.40:449][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.20-11.52.40:449][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.20-11.52.40:449][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.20-11.52.40:698][  0]LogNetVersion: Moonfall 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 4263305695)
+[2020.05.20-11.52.43:349][  0]LogPackageLocalizationCache: Processed 16 localized package path(s) for 1 prioritized culture(s) in 0.063621 seconds
+[2020.05.20-11.52.43:360][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.05.20-11.52.43:360][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.05.20-11.52.43:360][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.20-11.52.52:690][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.20-11.52.52:736][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.20-11.52.53:479][  0]SourceControl: Source control is disabled
+[2020.05.20-11.52.57:882][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.20-11.52.58:543][  0]LogOcInput: OculusInput pre-init called
+[2020.05.20-11.53.04:205][  0]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2020.05.20-11.53.04:205][  0]LogWindows: File 'libalias_api.dll' does not exist
+[2020.05.20-11.53.04:206][  0]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2020.05.20-11.53.04:206][  0]LogWindows: File 'libalias_api.dll' does not exist
+[2020.05.20-11.53.04:763][  0]LogEngine: Initializing Engine...
+[2020.05.20-11.53.04:793][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.20-11.53.04:795][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.05.20-11.53.05:701][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.20-11.53.05:858][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.20-11.53.05:989][  0]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.05.20-11.53.06:095][  0]LogInit: FAudioDevice initialized.
+[2020.05.20-11.53.06:095][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.20-11.53.06:173][  0]LogDerivedDataCache: Saved boot cache 0.08s 89MB C:/Users/Rhys Davies/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.05.20-11.53.06:186][  0]LogInit: Texture streaming: Enabled
+[2020.05.20-11.53.06:362][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.20-11.53.06:807][  0]LogInit: Transaction tracking system initialized
+[2020.05.20-11.53.07:006][  0]BlueprintLog: New page: Editor Load
+[2020.05.20-11.53.08:334][  0]LocalizationService: Localization service is disabled
+[2020.05.20-11.53.10:735][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.20-11.53.10:735][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.20-11.53.11:494][  0]LogFileCache: Scanning file cache for directory 'E:/Year 2 Unreal Projects/Moonfall/Content/' took 0.06s
+[2020.05.20-11.53.14:620][  0]Cmd: MAP LOAD FILE="E:/Year 2 Unreal Projects/Moonfall/Content/Kevin/Map/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.20-11.53.14:629][  0]LightingResults: New page: Lighting Build
+[2020.05.20-11.53.14:696][  0]MapCheck: New page: Map Check
+[2020.05.20-11.53.14:696][  0]LightingResults: New page: Lighting Build
+[2020.05.20-11.53.14:798][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.05.20-11.53.21:764][  0]LogAIModule: Creating AISystem for world TestMap
+[2020.05.20-11.53.22:078][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.20-11.53.22:146][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.05.20-11.53.22:146][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.20-11.53.22:147][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.098ms to complete.
+[2020.05.20-11.53.22:147][  0]LogFileHelpers: Loading map 'TestMap' took 7.526
+[2020.05.20-11.53.22:732][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.20-11.53.22:740][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.20-11.53.22:748][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.20-11.53.22:757][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.20-11.53.22:818][  0]LogCollectionManager: Loaded 0 collections in 0.001967 seconds
+[2020.05.20-11.53.22:875][  0]LogFileCache: Scanning file cache for directory 'E:/Year 2 Unreal Projects/Moonfall/Saved/Collections/' took 0.01s
+[2020.05.20-11.53.22:875][  0]LogFileCache: Scanning file cache for directory 'E:/Year 2 Unreal Projects/Moonfall/Content/Developers/RhysDavies/Collections/' took 0.00s
+[2020.05.20-11.53.22:875][  0]LogFileCache: Scanning file cache for directory 'E:/Year 2 Unreal Projects/Moonfall/Content/Collections/' took 0.00s
+[2020.05.20-11.53.22:875][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.05.20-11.53.22:888][  0]LogContentBrowser: Native class hierarchy populated in 0.0126 seconds. Added 2864 classes and 726 folders.
+[2020.05.20-11.53.22:925][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0018 seconds. Added 0 classes and 0 folders.
+[2020.05.20-11.53.22:994][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.20-11.53.23:037][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.20-11.53.23:064][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.20-11.53.23:080][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.20-11.53.23:091][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.20-11.53.23:106][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.20-11.53.23:122][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.20-11.53.23:138][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.20-11.53.23:146][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.20-11.53.23:159][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.20-11.53.23:175][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.20-11.53.23:181][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.20-11.53.23:190][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.20-11.53.23:203][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.20-11.53.23:218][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.20-11.53.23:231][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.20-11.53.23:260][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.20-11.53.23:274][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.20-11.53.23:286][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.20-11.53.23:313][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.20-11.53.23:326][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.20-11.53.23:339][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.20-11.53.23:353][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.20-11.53.23:371][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.20-11.53.23:381][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.20-11.53.23:396][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.20-11.53.23:410][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.20-11.53.23:424][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.20-11.53.24:010][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0018 seconds. Added 0 classes and 0 folders.
+[2020.05.20-11.53.24:174][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0019 seconds. Added 2 classes and 3 folders.
+[2020.05.20-11.53.24:198][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0019 seconds. Added 1 classes and 0 folders.
+[2020.05.20-11.53.24:818][  0]LogSlate: Took 0.013456 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.20-11.53.24:850][  0]LogSlate: Took 0.027731 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.20-11.53.24:864][  0]LogSlate: Took 0.011943 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.20-11.53.25:029][  0]LogRenderer: Reallocating scene render targets to support 1284x576 Format 10 NumSamples 1 (Frame:1).
+[2020.05.20-11.53.25:441][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0018 seconds. Added 0 classes and 0 folders.
+[2020.05.20-11.53.25:441][  0]LogLoad: (Engine Initialization) Total time: 73.74 seconds
+[2020.05.20-11.53.25:441][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.20-11.53.25:590][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.20-11.53.25:679][  1]LogFileCache: Retrieving MD5 hashes for directory 'E:/Year 2 Unreal Projects/Moonfall/Content/' took 0.17s
+[2020.05.20-11.53.25:722][  1]LogAssetRegistry: Asset discovery search completed in 48.4808 seconds
+[2020.05.20-11.53.25:735][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.05.20-11.53.25:735][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000059 seconds (updated 0 objects)
+[2020.05.20-11.53.35:330][ 29]LogRenderer: Reallocating scene render targets to support 1336x576 Format 10 NumSamples 1 (Frame:3).
+[2020.05.20-11.53.37:521][ 35]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.05.20-11.53.39:194][ 39]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.05.20-11.53.39:984][ 40]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.05.20-11.54.14:986][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.20-11.54.15:093][402]LogRenderer: Reallocating scene render targets to support 1504x632 Format 10 NumSamples 1 (Frame:283).
+[2020.05.20-11.54.21:607][775]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor53)
+[2020.05.20-11.54.22:069][792]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.20-11.54.24:114][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.20-11.54.24:180][914]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.20-11.54.24:205][914]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Kevin/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.05.20-11.54.24:205][914]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.20-11.54.24:205][914]PIE: New page: PIE session: TestMap (20 May 2020 13:54:24)
+[2020.05.20-11.54.24:268][914]LogPlayLevel: Creating play world package: /Game/Kevin/Map/UEDPIE_0_TestMap
+[2020.05.20-11.54.24:281][914]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012646s)
+[2020.05.20-11.54.24:281][914]LogAIModule: Creating AISystem for world TestMap
+[2020.05.20-11.54.24:281][914]LogPlayLevel: PIE: World Init took: (0.000493s)
+[2020.05.20-11.54.24:281][914]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kevin/Map/TestMap.TestMap to /Game/Kevin/Map/UEDPIE_0_TestMap.TestMap (0.013381s)
+[2020.05.20-11.54.24:307][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.05.20-11.54.24:364][914]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.05.20-11.54.24:450][914]LogInit: FAudioDevice initialized.
+[2020.05.20-11.54.24:501][914]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.20-11.54.24:511][914]LogWorld: Bringing World /Game/Kevin/Map/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2020.05.20-12.54.24
+[2020.05.20-11.54.24:550][914]LogWorld: Bringing up level for play took: 0.048300
+[2020.05.20-11.54.24:638][914]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0018 seconds. Added 20 classes and 0 folders.
+[2020.05.20-11.54.24:680][914]LogBehaviorTree: Warning: > Failed to find key 'CombatStatus' in BB asset BlackboardData /Game/Kevin/NPC/EnemyNPC/BasicEnemy/EnemyBB.EnemyBB. BB Key Selector will be set to 'Invalid'
+[2020.05.20-11.54.24:682][914]PIE: Play in editor start time for /Game/Kevin/Map/UEDPIE_0_TestMap 0.276
+[2020.05.20-11.54.24:682][914]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Kevin/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.05.20-11.54.24:765][915]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.067605 > MaxSimulationTimeStep (0.050) for 'PatrolEnemy2', movement 'Walking'
+[2020.05.20-11.54.24:766][915]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.067605 > MaxSimulationTimeStep (0.050) for 'PatrolEnemy3', movement 'Walking'
+[2020.05.20-11.54.24:766][915]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.067605 > MaxSimulationTimeStep (0.050) for 'PatrolEnemy_5', movement 'Walking'
+[2020.05.20-11.54.29:732][210]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack1
+[2020.05.20-11.54.30:532][256]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack2
+[2020.05.20-11.54.31:132][292]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack3
+[2020.05.20-11.54.33:516][435]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack1
+[2020.05.20-11.54.34:315][483]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack2
+[2020.05.20-11.54.34:915][519]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack3
+[2020.05.20-11.54.37:149][653]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] secondary1
+[2020.05.20-11.54.41:415][909]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack1
+[2020.05.20-11.54.42:382][967]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack2
+[2020.05.20-11.54.43:165][ 14]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack3
+[2020.05.20-11.54.44:933][120]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack1
+[2020.05.20-11.54.45:900][178]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack2
+[2020.05.20-11.54.48:466][332]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack1
+[2020.05.20-11.54.49:433][390]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack2
+[2020.05.20-11.54.50:217][437]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack3
+[2020.05.20-11.54.52:366][566]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack1
+[2020.05.20-11.54.53:334][624]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack2
+[2020.05.20-11.54.56:182][795]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack1
+[2020.05.20-11.54.57:149][853]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack2
+[2020.05.20-11.54.57:933][900]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack3
+[2020.05.20-11.55.00:367][ 46]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack1
+[2020.05.20-11.55.01:333][104]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack2
+[2020.05.20-11.55.02:117][151]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack3
+[2020.05.20-11.55.05:350][345]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fattack1
+[2020.05.20-11.55.08:901][558]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fsecon1
+[2020.05.20-11.55.10:917][679]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fsecond2
+[2020.05.20-11.55.12:050][747]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fsecon1
+[2020.05.20-11.55.12:851][795]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.12:868][796]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.12:884][797]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.12:901][798]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.12:918][799]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.12:934][800]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.12:951][801]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.12:967][802]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.12:985][803]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.13:001][804]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.13:018][805]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.13:035][806]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.13:051][807]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.13:068][808]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.13:085][809]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.14:084][869]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fsecond2
+[2020.05.20-11.55.17:685][ 85]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.17:703][ 86]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.17:718][ 87]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.17:736][ 88]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.17:752][ 89]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.17:770][ 90]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.17:785][ 91]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.18:434][130]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack1
+[2020.05.20-11.55.19:067][150]LogCharacterMovement: PatrolEnemy_5 is stuck and failed to move! Velocity: X=-215.18 Y=164.30 Z=0.00 Location: X=5181.78 Y=-2196.12 Z=109.03 Normal: X=-0.02 Y=-0.10 Z=-0.99 PenetrationDepth:38.443 Actor:ThirdPersonCharacter_C_0 Component:Weapon BoneName:None (0 other events since notify)
+[2020.05.20-11.55.19:409][170]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack2
+[2020.05.20-11.55.20:893][259]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 90.0
+[2020.05.20-11.55.20:909][260]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.20:926][261]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.20:943][262]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.20:943][262]LogBlueprintUserMessages: [PlayerTakeDamageStart_C_0] Hello
+[2020.05.20-11.55.20:959][263]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.20:976][264]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.20:993][265]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.21:309][284]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 80.0
+[2020.05.20-11.55.21:326][285]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.21:359][287]LogBlueprintUserMessages: [PlayerTakeDamageStart_C_0] Hello
+[2020.05.20-11.55.21:392][289]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.21:409][290]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.24:192][457]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.24:209][458]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.24:226][459]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.24:242][460]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.24:259][461]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.24:276][462]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.24:293][463]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.25:908][559]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fattack1
+[2020.05.20-11.55.28:092][690]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.28:108][691]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.28:125][692]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.28:142][693]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.28:158][694]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.28:175][695]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.28:192][696]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.28:209][697]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.28:225][698]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.28:241][699]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.28:258][700]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.28:275][701]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.28:291][702]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.28:308][703]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.28:325][704]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.28:341][705]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.28:427][710]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.28:442][711]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.28:459][712]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.28:475][713]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.28:493][714]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.28:509][715]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.28:527][716]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.29:708][787]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fsecon1
+[2020.05.20-11.55.32:126][932]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.32:143][933]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.32:160][934]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.32:175][935]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.32:191][936]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.32:208][937]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.32:225][938]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.32:925][980]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.32:941][981]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.32:959][982]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.32:975][983]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.32:993][984]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.33:009][985]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 70.0
+[2020.05.20-11.55.33:026][986]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.33:042][987]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.33:059][988]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-11.55.33:059][988]LogBlueprintUserMessages: [PlayerTakeDamageStart_C_0] Hello
+[2020.05.20-11.55.50:322][ 22]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] secondary1
+[2020.05.20-11.55.50:824][ 52]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] secondary1
+[2020.05.20-11.55.52:706][165]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack1
+[2020.05.20-11.55.55:456][330]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack1
+[2020.05.20-11.55.55:974][361]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] secondary2
+[2020.05.20-11.55.56:472][391]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] secondary3
+[2020.05.20-11.55.58:273][499]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack1
+[2020.05.20-11.56.00:573][637]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack1
+[2020.05.20-11.56.01:089][668]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack2
+[2020.05.20-11.56.02:490][752]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack1
+[2020.05.20-11.56.05:189][914]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack1
+[2020.05.20-11.56.07:856][ 74]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack1
+[2020.05.20-11.56.08:373][105]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack2
+[2020.05.20-11.56.09:607][179]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack1
+[2020.05.20-11.56.19:140][751]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack1
+[2020.05.20-11.56.19:657][782]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack2
+[2020.05.20-11.56.21:140][871]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack1
+[2020.05.20-11.56.21:657][902]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack2
+[2020.05.20-11.56.23:675][ 23]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack1
+[2020.05.20-11.56.24:191][ 54]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack2
+[2020.05.20-11.56.25:524][134]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack1
+[2020.05.20-11.56.26:041][165]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack2
+[2020.05.20-11.56.26:511][190]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack3
+[2020.05.20-11.56.28:095][285]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack1
+[2020.05.20-11.56.29:845][390]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack1
+[2020.05.20-11.56.30:362][421]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack2
+[2020.05.20-11.56.30:828][449]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack3
+[2020.05.20-11.56.32:412][544]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] secondary1
+[2020.05.20-11.56.33:279][596]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] secondary1
+[2020.05.20-11.56.34:328][659]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] secondary1
+[2020.05.20-11.56.36:744][804]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] secondary1
+[2020.05.20-11.56.37:513][850]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] secondary1
+[2020.05.20-11.56.38:161][889]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] secondary1
+[2020.05.20-11.56.38:728][923]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] secondary1
+[2020.05.20-11.56.39:295][957]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] secondary1
+[2020.05.20-11.56.39:811][988]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] secondary1
+[2020.05.20-11.56.40:395][ 23]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] secondary1
+[2020.05.20-11.56.40:895][ 53]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] secondary1
+[2020.05.20-11.56.42:829][169]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] secondary1
+[2020.05.20-11.56.43:797][227]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] secondary1
+[2020.05.20-11.56.45:329][319]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] secondary1
+[2020.05.20-11.56.45:829][349]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] secondary1
+[2020.05.20-11.56.46:312][378]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] secondary1
+[2020.05.20-11.56.48:279][496]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack1
+[2020.05.20-11.56.48:797][527]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack2
+[2020.05.20-11.56.50:147][608]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] secondary1
+[2020.05.20-11.57.05:977][556]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fsecon1
+[2020.05.20-11.57.08:311][696]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fsecon1
+[2020.05.20-11.57.08:677][718]LogBlueprintUserMessages: [Tamerr_2] 80.0
+[2020.05.20-11.57.10:594][833]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fsecon1
+[2020.05.20-11.57.10:861][849]LogBlueprintUserMessages: [Tamerr_2] 60.0
+[2020.05.20-11.57.13:577][ 12]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fsecon1
+[2020.05.20-11.57.13:828][ 27]LogBlueprintUserMessages: [Tamerr_2] 40.0
+[2020.05.20-11.57.14:794][ 85]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fsecon1
+[2020.05.20-11.57.16:428][183]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fsecon1
+[2020.05.20-11.57.16:678][198]LogBlueprintUserMessages: [Tamerr_2] 20.0
+[2020.05.20-11.57.17:961][275]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fsecon1
+[2020.05.20-11.57.19:828][387]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack1
+[2020.05.20-11.57.20:028][399]LogBlueprintUserMessages: [Tamerr_2] 975.0
+[2020.05.20-11.57.20:028][399]LogBlueprintUserMessages: [Tamerr_2] 80.0
+[2020.05.20-11.57.22:078][522]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack1
+[2020.05.20-11.57.24:277][654]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fsecon1
+[2020.05.20-11.57.24:528][669]LogBlueprintUserMessages: [Tamerr_2] 60.0
+[2020.05.20-11.57.25:561][731]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fsecon1
+[2020.05.20-11.57.26:845][808]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fsecon1
+[2020.05.20-11.57.27:095][823]LogBlueprintUserMessages: [Tamerr_2] 40.0
+[2020.05.20-11.57.28:474][905]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fsecon1
+[2020.05.20-11.57.29:857][988]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fsecon1
+[2020.05.20-11.57.30:107][  3]LogBlueprintUserMessages: [Tamerr_2] 20.0
+[2020.05.20-11.57.43:442][803]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fsecon1
+[2020.05.20-11.57.45:391][920]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fattack1
+[2020.05.20-11.57.45:890][950]LogBlueprintUserMessages: [Tamerr_2] 950.0
+[2020.05.20-11.57.48:958][134]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fattack1
+[2020.05.20-11.57.51:957][314]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fattack1
+[2020.05.20-11.57.52:774][363]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fattack2
+[2020.05.20-11.57.53:907][431]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fattack1
+[2020.05.20-11.57.54:741][481]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fattack2
+[2020.05.20-11.57.55:874][549]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fattack1
+[2020.05.20-11.58.01:192][868]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fattack1
+[2020.05.20-11.58.04:358][ 58]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fattack1
+[2020.05.20-11.58.05:176][107]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fattack2
+[2020.05.20-11.58.06:309][175]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fattack1
+[2020.05.20-11.58.10:127][404]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Kevin/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.05.20-11.58.10:127][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.20-11.58.10:159][404]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.20-11.58.10:160][404]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Kevin/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.05.20-11.58.10:192][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.20-11.58.10:483][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.05.20-11.58.10:510][405]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.05.20-11.58.19:517][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.20-11.58.22:184][723]LogSlate: Took 0.316756 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.20-11.58.22:191][723]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.20-11.58.22:712][723]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0021 seconds. Added 121 classes and 0 folders.
+[2020.05.20-11.58.24:007][723]LogSlate: Took 0.015662 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.20-11.58.24:832][724]LogSlate: Took 0.004833 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.20-12.06.21:792][579]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.20-12.06.21:827][579]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Kevin/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.05.20-12.06.21:827][579]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.20-12.06.21:827][579]PIE: New page: PIE session: TestMap (20 May 2020 14:06:21)
+[2020.05.20-12.06.21:827][579]LogPlayLevel: Creating play world package: /Game/Kevin/Map/UEDPIE_0_TestMap
+[2020.05.20-12.06.21:844][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016510s)
+[2020.05.20-12.06.21:844][579]LogAIModule: Creating AISystem for world TestMap
+[2020.05.20-12.06.21:845][579]LogPlayLevel: PIE: World Init took: (0.000743s)
+[2020.05.20-12.06.21:845][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kevin/Map/TestMap.TestMap to /Game/Kevin/Map/UEDPIE_0_TestMap.TestMap (0.017423s)
+[2020.05.20-12.06.22:172][579]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.05.20-12.06.22:198][579]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.05.20-12.06.22:283][579]LogInit: FAudioDevice initialized.
+[2020.05.20-12.06.22:298][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.20-12.06.22:331][579]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.20-12.06.22:344][579]LogWorld: Bringing World /Game/Kevin/Map/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2020.05.20-13.06.22
+[2020.05.20-12.06.22:347][579]LogWorld: Bringing up level for play took: 0.015414
+[2020.05.20-12.06.22:365][579]LogBehaviorTree: Warning: > Failed to find key 'CombatStatus' in BB asset BlackboardData /Game/Kevin/NPC/EnemyNPC/BasicEnemy/EnemyBB.EnemyBB. BB Key Selector will be set to 'Invalid'
+[2020.05.20-12.06.22:376][579]PIE: Play in editor start time for /Game/Kevin/Map/UEDPIE_0_TestMap -0.031
+[2020.05.20-12.06.22:376][579]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Kevin/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.05.20-12.06.22:397][580]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.067605 > MaxSimulationTimeStep (0.050) for 'PatrolEnemy2', movement 'Walking'
+[2020.05.20-12.06.22:397][580]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.067605 > MaxSimulationTimeStep (0.050) for 'PatrolEnemy3', movement 'Walking'
+[2020.05.20-12.06.22:397][580]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.067605 > MaxSimulationTimeStep (0.050) for 'PatrolEnemy_5', movement 'Walking'
+[2020.05.20-12.06.22:412][581]LogRenderer: Reallocating scene render targets to support 1504x688 Format 10 NumSamples 1 (Frame:1).
+[2020.05.20-12.06.32:282][163]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack1
+[2020.05.20-12.06.34:126][273]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fattack1
+[2020.05.20-12.06.35:157][335]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fattack2
+[2020.05.20-12.06.40:862][671]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fsecon1
+[2020.05.20-12.06.43:063][802]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fattack1
+[2020.05.20-12.06.45:465][941]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fattack1
+[2020.05.20-12.06.46:497][  2]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fattack2
+[2020.05.20-12.06.46:865][ 24]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.06.46:882][ 25]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.06.46:901][ 26]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.06.46:915][ 27]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.06.46:932][ 28]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.06.46:949][ 29]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.06.46:965][ 30]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.06.46:984][ 31]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.06.46:997][ 32]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.06.47:014][ 33]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.06.47:031][ 34]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.06.47:048][ 35]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.06.47:064][ 36]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.06.47:081][ 37]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.06.47:098][ 38]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.06.47:632][ 70]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fsecon1
+[2020.05.20-12.06.48:319][111]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] secondary2
+[2020.05.20-12.06.49:914][188]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] secondary1
+[2020.05.20-12.06.51:855][303]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.06.51:871][304]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.06.51:888][305]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.06.51:906][306]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.06.51:921][307]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.06.51:938][308]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.06.51:955][309]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.06.54:512][459]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fsecon1
+[2020.05.20-12.06.55:831][538]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 90.0
+[2020.05.20-12.06.55:848][539]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.06.55:865][540]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.06.55:882][541]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.06.55:882][541]LogBlueprintUserMessages: [PlayerTakeDamageStart_C_0] Hello
+[2020.05.20-12.06.55:898][542]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.06.55:915][543]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.06.55:932][544]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.06.55:949][545]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.06.57:911][662]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fattack1
+[2020.05.20-12.06.58:940][723]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fattack2
+[2020.05.20-12.07.03:684][  5]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.03:701][  6]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.03:718][  7]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.03:735][  8]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.03:752][  9]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.03:768][ 10]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.03:785][ 11]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.04:408][ 48]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack1
+[2020.05.20-12.07.05:374][106]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack2
+[2020.05.20-12.07.06:161][153]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack3
+[2020.05.20-12.07.10:213][391]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.10:229][392]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.10:246][393]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.10:265][394]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.10:281][395]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.10:295][396]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.10:314][397]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.10:804][426]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack1
+[2020.05.20-12.07.11:154][447]LogCharacterMovement: PatrolEnemy_5 is stuck and failed to move! Velocity: X=205.77 Y=-208.14 Z=0.00 Location: X=4552.76 Y=2374.22 Z=108.13 Normal: X=0.16 Y=0.80 Z=-0.58 PenetrationDepth:20.756 Actor:ThirdPersonCharacter_C_0 Component:Weapon BoneName:None (0 other events since notify)
+[2020.05.20-12.07.11:772][484]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack2
+[2020.05.20-12.07.13:427][583]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.13:444][584]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.13:461][585]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.13:478][586]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.13:494][587]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.13:510][588]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.13:527][589]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.14:701][659]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack1
+[2020.05.20-12.07.16:638][773]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.16:655][774]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.16:672][775]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.16:688][776]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.16:705][777]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.16:721][778]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.16:738][779]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.19:268][930]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fsecon1
+[2020.05.20-12.07.19:283][931]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.19:299][932]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.19:316][933]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.19:332][934]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.19:350][935]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.19:367][936]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.19:384][937]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.19:402][938]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.19:417][939]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.19:434][940]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.19:450][941]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.19:466][942]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 80.0
+[2020.05.20-12.07.19:483][943]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.19:500][944]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.19:517][945]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.19:517][945]LogBlueprintUserMessages: [PlayerTakeDamageStart_C_0] Hello
+[2020.05.20-12.07.21:790][ 81]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fsecon1
+[2020.05.20-12.07.23:504][182]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.23:521][183]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.23:538][184]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.23:556][185]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.23:571][186]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.23:588][187]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.23:604][188]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.24:195][223]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fsecon1
+[2020.05.20-12.07.25:966][329]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fattack1
+[2020.05.20-12.07.35:535][899]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack1
+[2020.05.20-12.07.36:051][930]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack2
+[2020.05.20-12.07.38:315][ 63]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] secondary1
+[2020.05.20-12.07.41:254][239]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] secondary1
+[2020.05.20-12.07.42:820][331]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack1
+[2020.05.20-12.07.43:236][356]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 70.0
+[2020.05.20-12.07.43:252][357]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.43:269][358]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.43:286][359]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.43:286][359]LogBlueprintUserMessages: [PlayerTakeDamageStart_C_0] Hello
+[2020.05.20-12.07.43:302][360]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.43:319][361]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.43:336][362]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.46:265][535]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack1
+[2020.05.20-12.07.47:287][596]LogCharacterMovement: PatrolEnemy2 is stuck and failed to move! Velocity: X=-11.39 Y=115.50 Z=0.00 Location: X=5428.61 Y=618.92 Z=108.17 Normal: X=0.08 Y=-0.88 Z=-0.46 PenetrationDepth:3.530 Actor:ThirdPersonCharacter_C_0 Component:Weapon BoneName:None (0 other events since notify)
+[2020.05.20-12.07.47:792][626]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] secondary1
+[2020.05.20-12.07.49:531][730]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack1
+[2020.05.20-12.07.50:617][795]LogCharacterMovement: PatrolEnemy2 is stuck and failed to move! Velocity: X=-19.41 Y=-28.08 Z=0.00 Location: X=5456.61 Y=639.59 Z=108.73 Normal: X=0.14 Y=0.68 Z=-0.72 PenetrationDepth:12.358 Actor:ThirdPersonCharacter_C_0 Component:Weapon BoneName:None (7 other events since notify)
+[2020.05.20-12.07.53:181][946]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.53:197][947]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.53:214][948]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.53:230][949]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.53:247][950]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.53:263][951]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.53:280][952]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.53:296][953]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.54:850][ 46]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack1
+[2020.05.20-12.07.56:398][139]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.56:415][140]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.56:432][141]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.56:449][142]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.56:465][143]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.56:482][144]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.56:499][145]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.57:251][190]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack1
+[2020.05.20-12.07.57:766][221]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack2
+[2020.05.20-12.07.59:601][331]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.59:618][332]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.59:635][333]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.59:651][334]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.59:668][335]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.59:685][336]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.59:702][337]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.59:719][338]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.59:735][339]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.59:752][340]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.59:768][341]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.59:785][342]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.07.59:802][343]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2020.05.20-12.08.02:109][479]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fattack1
+[2020.05.20-12.08.17:772][408]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack1
+[2020.05.20-12.08.21:204][612]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Attack1
+[2020.05.20-12.08.59:147][873]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Kevin/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.05.20-12.08.59:148][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.20-12.08.59:173][873]LogSlate: Window 'Moonfall Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.20-12.08.59:500][873]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.20-12.08.59:501][873]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Kevin/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.05.20-12.08.59:547][873]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.05.20-12.08.59:572][874]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.05.20-12.09.02:351][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube53)
+[2020.05.20-12.09.02:985][ 70]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.20-12.09.09:624][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube63)
+[2020.05.20-12.09.10:104][474]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.20-12.09.14:003][690]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.20-12.09.15:324][767]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.20-12.09.18:691][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.20-12.09.21:995][160]LogRenderer: Reallocating scene render targets to support 1504x708 Format 10 NumSamples 1 (Frame:1).
+[2020.05.20-12.09.24:116][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.20-12.09.24:949][337]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube63)
+[2020.05.20-12.09.25:316][358]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.20-12.09.25:991][398]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube34)
+[2020.05.20-12.09.26:233][410]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.20-12.09.30:688][676]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.20-12.09.52:865][979]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.05.20-12.09.53:562][979]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.05.20-12.10.03:909][518]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.05.20-12.10.04:334][518]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.05.20-12.10.05:275][559]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.20-12.10.05:305][559]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Kevin/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.05.20-12.10.05:305][559]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.20-12.10.05:305][559]PIE: New page: PIE session: TestMap (20 May 2020 14:10:05)
+[2020.05.20-12.10.05:306][559]LogPlayLevel: Creating play world package: /Game/Kevin/Map/UEDPIE_0_TestMap
+[2020.05.20-12.10.05:321][559]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015074s)
+[2020.05.20-12.10.05:322][559]LogAIModule: Creating AISystem for world TestMap
+[2020.05.20-12.10.05:322][559]LogPlayLevel: PIE: World Init took: (0.001348s)
+[2020.05.20-12.10.05:322][559]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kevin/Map/TestMap.TestMap to /Game/Kevin/Map/UEDPIE_0_TestMap.TestMap (0.016812s)
+[2020.05.20-12.10.05:368][559]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.05.20-12.10.05:398][559]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.05.20-12.10.05:506][559]LogInit: FAudioDevice initialized.
+[2020.05.20-12.10.05:516][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.20-12.10.05:552][559]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.20-12.10.05:567][559]LogWorld: Bringing World /Game/Kevin/Map/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2020.05.20-13.10.05
+[2020.05.20-12.10.05:569][559]LogWorld: Bringing up level for play took: 0.015628
+[2020.05.20-12.10.05:587][559]LogBehaviorTree: Warning: > Failed to find key 'CombatStatus' in BB asset BlackboardData /Game/Kevin/NPC/EnemyNPC/BasicEnemy/EnemyBB.EnemyBB. BB Key Selector will be set to 'Invalid'
+[2020.05.20-12.10.05:590][559]PIE: Play in editor start time for /Game/Kevin/Map/UEDPIE_0_TestMap 1.184
+[2020.05.20-12.10.05:590][559]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Kevin/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.05.20-12.10.13:596][ 36]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Kevin/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.05.20-12.10.13:596][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.20-12.10.13:626][ 36]LogSlate: Window 'Moonfall Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.20-12.10.13:665][ 36]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.20-12.10.13:666][ 36]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Kevin/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.05.20-12.10.13:721][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.05.20-12.10.13:732][ 37]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.05.20-12.10.20:256][427]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.20-12.10.20:284][427]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Kevin/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.05.20-12.10.20:284][427]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.20-12.10.20:284][427]PIE: New page: PIE session: TestMap (20 May 2020 14:10:20)
+[2020.05.20-12.10.20:284][427]LogPlayLevel: Creating play world package: /Game/Kevin/Map/UEDPIE_0_TestMap
+[2020.05.20-12.10.20:297][427]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012610s)
+[2020.05.20-12.10.20:297][427]LogAIModule: Creating AISystem for world TestMap
+[2020.05.20-12.10.20:297][427]LogPlayLevel: PIE: World Init took: (0.000457s)
+[2020.05.20-12.10.20:297][427]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kevin/Map/TestMap.TestMap to /Game/Kevin/Map/UEDPIE_0_TestMap.TestMap (0.013193s)
+[2020.05.20-12.10.20:335][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.05.20-12.10.20:360][427]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.05.20-12.10.20:443][427]LogInit: FAudioDevice initialized.
+[2020.05.20-12.10.20:471][427]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.20-12.10.20:480][427]LogWorld: Bringing World /Game/Kevin/Map/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2020.05.20-13.10.20
+[2020.05.20-12.10.20:482][427]LogWorld: Bringing up level for play took: 0.010083
+[2020.05.20-12.10.20:500][427]LogBehaviorTree: Warning: > Failed to find key 'CombatStatus' in BB asset BlackboardData /Game/Kevin/NPC/EnemyNPC/BasicEnemy/EnemyBB.EnemyBB. BB Key Selector will be set to 'Invalid'
+[2020.05.20-12.10.20:501][427]PIE: Play in editor start time for /Game/Kevin/Map/UEDPIE_0_TestMap 0.094
+[2020.05.20-12.10.20:501][427]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Kevin/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.05.20-12.10.38:140][484]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Kevin/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.05.20-12.10.38:140][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.20-12.10.38:170][484]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.20-12.10.38:170][484]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Kevin/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Kevin/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.05.20-12.10.38:204][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.20-12.10.38:209][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.05.20-12.10.38:256][486]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.05.20-12.10.39:056][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.20-12.10.49:262][136]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.05.20-12.10.49:652][136]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.05.20-12.10.53:990][387]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.05.20-12.10.54:386][387]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2020.05.20-12.11.04:617][943]LogAssetEditorManager: Opening Asset editor for World /Game/Kevin/Map/TestMap.TestMap
+[2020.05.20-12.11.04:939][943]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.05.20-12.11.10:452][943]LogSlate: Window 'Save Content' being destroyed
+[2020.05.20-12.11.10:813][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kevin/Map/TestMap" FILE="E:/Year 2 Unreal Projects/Moonfall/Content/Kevin/Map/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.20-12.11.10:854][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.05.20-12.11.11:340][943]LogSavePackage: Moving 'E:/Year 2 Unreal Projects/Moonfall/Saved/TestMap7814A39342D2E0856CF1888C48FC89F7.tmp' to 'E:/Year 2 Unreal Projects/Moonfall/Content/Kevin/Map/TestMap.umap'
+[2020.05.20-12.11.11:417][943]LogFileHelpers: Saving map 'TestMap' took 0.622
+[2020.05.20-12.11.11:442][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="E:/Year 2 Unreal Projects/Moonfall/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.05.20-12.11.12:095][943]LogSavePackage: Moving 'E:/Year 2 Unreal Projects/Moonfall/Saved/ThirdPersonCharacter42F10F2B4E3DBE3A5635DB93BA09A88A.tmp' to 'E:/Year 2 Unreal Projects/Moonfall/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.05.20-12.11.12:120][943]Cmd: MAP LOAD FILE="E:/Year 2 Unreal Projects/Moonfall/Content/Kevin/Map/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.20-12.11.12:120][943]LightingResults: New page: Lighting Build
+[2020.05.20-12.11.12:121][943]LoadErrors: New page: Loading map: TestMap.umap
+[2020.05.20-12.11.12:170][943]MapCheck: New page: Map Check
+[2020.05.20-12.11.12:170][943]LightingResults: New page: Lighting Build
+[2020.05.20-12.11.12:229][943]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.05.20-12.11.12:331][943]LogAIModule: Creating AISystem for world TestMap
+[2020.05.20-12.11.12:489][943]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.20-12.11.12:529][943]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.05.20-12.11.12:588][943]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.20-12.11.12:589][943]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.094ms to complete.
+[2020.05.20-12.11.12:589][943]LogFileHelpers: Loading map 'TestMap' took 0.489
+[2020.05.20-12.11.23:555][430]LogStaticMesh: Building static mesh boat_dock_2...
+[2020.05.20-12.11.23:599][430]LogBlueprintActionDatabase: Requesting refresh due to module change: MeshBuilder (loaded)
+[2020.05.20-12.11.23:667][430]LogStaticMesh: Built static mesh [0.11s] /Game/Environment/Boat_dock/boat_dock_2.boat_dock_2
+[2020.05.20-12.11.24:052][430]LogAIModule: Creating AISystem for world MainWorld
+[2020.05.20-12.11.24:071][430]LogAssetEditorManager: Opening Asset editor for World /Game/Kevin/Map/WorldComp/MainWorld.MainWorld
+[2020.05.20-12.11.24:104][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.05.20-12.11.24:105][430]Cmd: MAP LOAD FILE="E:/Year 2 Unreal Projects/Moonfall/Content/Kevin/Map/WorldComp/MainWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.20-12.11.24:105][430]LightingResults: New page: Lighting Build
+[2020.05.20-12.11.24:105][430]LoadErrors: New page: Loading map: MainWorld.umap
+[2020.05.20-12.11.24:108][430]MapCheck: New page: Map Check
+[2020.05.20-12.11.24:108][430]LightingResults: New page: Lighting Build
+[2020.05.20-12.11.24:144][430]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.05.20-12.11.24:233][430]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.20-12.11.24:274][430]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.05.20-12.11.24:334][430]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.20-12.11.24:334][430]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.069ms to complete.
+[2020.05.20-12.11.24:334][430]LogFileHelpers: Loading map 'MainWorld' took 0.230
+[2020.05.20-12.11.40:108][902]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.20-12.11.50:056][471]LogEditorViewport: Clicking on Actor (LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.05.20-12.11.50:510][492]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.20-12.11.52:058][581]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (boat_dock_3)
+[2020.05.20-12.11.52:366][596]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.20-12.11.54:282][709]LogEditorViewport: Clicking on Actor (LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.05.20-12.11.54:573][724]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.20-12.11.57:545][895]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fishing_Moonshard)
+[2020.05.20-12.11.57:838][909]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.20-12.12.04:528][308]LogEditorViewport: Clicking on Actor (LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.05.20-12.12.05:121][341]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor1)
+[2020.05.20-12.12.05:865][365]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.20-12.12.08:819][534]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Village_13)
+[2020.05.20-12.12.09:304][560]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.20-12.12.54:632][264]LogEditorViewport: Clicking on Actor (LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.05.20-12.12.55:093][288]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.20-12.13.13:911][407]LogEditorViewport: Clicking on Actor (LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.05.20-12.13.14:354][431]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.20-12.13.35:361][674]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LogCabin_low)
+[2020.05.20-12.13.36:072][696]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.20-12.13.37:900][805]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.20-12.13.37:967][809]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.20-12.13.37:998][809]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kevin/Map/WorldComp/MainWorld.MainWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/WorldComp/MainWorld.MainWorld:PersistentLevel.MainWorld' with GeneratedClass '/Game/Kevin/Map/WorldComp/MainWorld.MainWorld_C' with ClassGeneratedBy '/Game/Kevin/Map/WorldComp/MainWorld.MainWorld:PersistentLevel.MainWorld'
+[2020.05.20-12.13.37:999][809]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x1_y1.moonfall_x1_y1:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x1_y1.moonfall_x1_y1:PersistentLevel.moonfall_x1_y1' with GeneratedClass '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x1_y1.moonfall_x1_y1_C' with ClassGeneratedBy '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x1_y1.moonfall_x1_y1:PersistentLevel.moonfall_x1_y1'
+[2020.05.20-12.13.37:999][809]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x1_y0.moonfall_x1_y0:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x1_y0.moonfall_x1_y0:PersistentLevel.moonfall_x1_y0' with GeneratedClass '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x1_y0.moonfall_x1_y0_C' with ClassGeneratedBy '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x1_y0.moonfall_x1_y0:PersistentLevel.moonfall_x1_y0'
+[2020.05.20-12.13.37:999][809]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x0_y1.moonfall_x0_y1:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x0_y1.moonfall_x0_y1:PersistentLevel.moonfall_x0_y1' with GeneratedClass '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x0_y1.moonfall_x0_y1_C' with ClassGeneratedBy '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x0_y1.moonfall_x0_y1:PersistentLevel.moonfall_x0_y1'
+[2020.05.20-12.13.37:999][809]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x0_y0.moonfall_x0_y0:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x0_y0.moonfall_x0_y0:PersistentLevel.moonfall_x0_y0' with GeneratedClass '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x0_y0.moonfall_x0_y0_C' with ClassGeneratedBy '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x0_y0.moonfall_x0_y0:PersistentLevel.moonfall_x0_y0'
+[2020.05.20-12.13.37:999][809]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kevin/Map/WorldComp/moonfall/Mountain1.Mountain1:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/WorldComp/moonfall/Mountain1.Mountain1:PersistentLevel.Mountain1' with GeneratedClass '/Game/Kevin/Map/WorldComp/moonfall/Mountain1.Mountain1_C' with ClassGeneratedBy '/Game/Kevin/Map/WorldComp/moonfall/Mountain1.Mountain1:PersistentLevel.Mountain1'
+[2020.05.20-12.13.37:999][809]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Kevin/Map/WorldComp/moonfall/Mountain2.Mountain2:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/WorldComp/moonfall/Mountain2.Mountain2:PersistentLevel.Mountain2' with GeneratedClass '/Game/Kevin/Map/WorldComp/moonfall/Mountain2.Mountain2_C' with ClassGeneratedBy '/Game/Kevin/Map/WorldComp/moonfall/Mountain2.Mountain2:PersistentLevel.Mountain2'
+[2020.05.20-12.13.37:999][809]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.20-12.13.37:999][809]PIE: New page: PIE session: MainWorld (20 May 2020 14:13:37)
+[2020.05.20-12.13.37:999][809]LogPlayLevel: Creating play world package: /Game/Kevin/Map/WorldComp/UEDPIE_0_MainWorld
+[2020.05.20-12.13.38:085][809]LogPlayLevel: PIE: StaticDuplicateObject took: (0.086600s)
+[2020.05.20-12.13.38:086][809]LogAIModule: Creating AISystem for world MainWorld
+[2020.05.20-12.13.38:086][809]LogPlayLevel: PIE: World Init took: (0.000741s)
+[2020.05.20-12.13.38:086][809]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kevin/Map/WorldComp/MainWorld.MainWorld to /Game/Kevin/Map/WorldComp/UEDPIE_0_MainWorld.MainWorld (0.087590s)
+[2020.05.20-12.13.38:157][809]LogUObjectHash: Compacting FUObjectHashTables data took   7.09ms
+[2020.05.20-12.13.38:183][809]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.05.20-12.13.38:270][809]LogInit: FAudioDevice initialized.
+[2020.05.20-12.13.38:301][809]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.20-12.13.38:303][809]LogWorld: Bringing World /Game/Kevin/Map/WorldComp/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 60) at 2020.05.20-13.13.38
+[2020.05.20-12.13.38:303][809]LogWorld: Bringing up level for play took: 0.001707
+[2020.05.20-12.13.38:461][809]LogStreaming: Display: Flushing async loaders.
+[2020.05.20-12.13.38:558][809]PIE: Play in editor start time for /Game/Kevin/Map/WorldComp/UEDPIE_0_MainWorld 0.151
+[2020.05.20-12.13.38:576][809]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kevin/Map/WorldComp/MainWorld.MainWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/WorldComp/MainWorld.MainWorld:PersistentLevel.MainWorld' with GeneratedClass '/Game/Kevin/Map/WorldComp/MainWorld.MainWorld_C' with ClassGeneratedBy '/Game/Kevin/Map/WorldComp/MainWorld.MainWorld:PersistentLevel.MainWorld'
+[2020.05.20-12.13.38:576][809]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x1_y1.moonfall_x1_y1:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x1_y1.moonfall_x1_y1:PersistentLevel.moonfall_x1_y1' with GeneratedClass '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x1_y1.moonfall_x1_y1_C' with ClassGeneratedBy '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x1_y1.moonfall_x1_y1:PersistentLevel.moonfall_x1_y1'
+[2020.05.20-12.13.38:576][809]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x1_y0.moonfall_x1_y0:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x1_y0.moonfall_x1_y0:PersistentLevel.moonfall_x1_y0' with GeneratedClass '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x1_y0.moonfall_x1_y0_C' with ClassGeneratedBy '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x1_y0.moonfall_x1_y0:PersistentLevel.moonfall_x1_y0'
+[2020.05.20-12.13.38:576][809]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x0_y1.moonfall_x0_y1:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x0_y1.moonfall_x0_y1:PersistentLevel.moonfall_x0_y1' with GeneratedClass '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x0_y1.moonfall_x0_y1_C' with ClassGeneratedBy '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x0_y1.moonfall_x0_y1:PersistentLevel.moonfall_x0_y1'
+[2020.05.20-12.13.38:576][809]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x0_y0.moonfall_x0_y0:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x0_y0.moonfall_x0_y0:PersistentLevel.moonfall_x0_y0' with GeneratedClass '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x0_y0.moonfall_x0_y0_C' with ClassGeneratedBy '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x0_y0.moonfall_x0_y0:PersistentLevel.moonfall_x0_y0'
+[2020.05.20-12.13.38:576][809]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kevin/Map/WorldComp/moonfall/Mountain1.Mountain1:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/WorldComp/moonfall/Mountain1.Mountain1:PersistentLevel.Mountain1' with GeneratedClass '/Game/Kevin/Map/WorldComp/moonfall/Mountain1.Mountain1_C' with ClassGeneratedBy '/Game/Kevin/Map/WorldComp/moonfall/Mountain1.Mountain1:PersistentLevel.Mountain1'
+[2020.05.20-12.13.38:576][809]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Kevin/Map/WorldComp/moonfall/Mountain2.Mountain2:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/WorldComp/moonfall/Mountain2.Mountain2:PersistentLevel.Mountain2' with GeneratedClass '/Game/Kevin/Map/WorldComp/moonfall/Mountain2.Mountain2_C' with ClassGeneratedBy '/Game/Kevin/Map/WorldComp/moonfall/Mountain2.Mountain2:PersistentLevel.Mountain2'
+[2020.05.20-12.13.45:557][201]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2020.05.20-12.14.23:891][499]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.05.20-12.14.35:556][197]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2020.05.20-12.14.39:315][419]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.05.20-12.14.52:830][228]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.05.20-12.15.02:808][822]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.05.20-12.15.07:290][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.05.20-12.15.08:414][132]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.05.20-12.15.13:179][416]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.05.20-12.15.15:060][527]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.05.20-12.15.17:231][655]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2020.05.20-12.15.18:500][715]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.05.20-12.15.22:745][968]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.05.20-12.15.26:594][197]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.05.20-12.15.28:292][297]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.05.20-12.15.30:451][425]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.05.20-12.15.32:256][531]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2020.05.20-12.15.34:011][634]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.05.20-12.15.36:829][801]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.05.20-12.15.40:679][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.05.20-12.15.42:529][139]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2020.05.20-12.15.45:620][322]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.05.20-12.15.47:720][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.05.20-12.15.50:823][613]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.05.20-12.15.54:830][854]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kevin/Map/WorldComp/MainWorld.MainWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/WorldComp/MainWorld.MainWorld:PersistentLevel.MainWorld' with GeneratedClass '/Game/Kevin/Map/WorldComp/MainWorld.MainWorld_C' with ClassGeneratedBy '/Game/Kevin/Map/WorldComp/MainWorld.MainWorld:PersistentLevel.MainWorld'
+[2020.05.20-12.15.54:830][854]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x1_y1.moonfall_x1_y1:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x1_y1.moonfall_x1_y1:PersistentLevel.moonfall_x1_y1' with GeneratedClass '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x1_y1.moonfall_x1_y1_C' with ClassGeneratedBy '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x1_y1.moonfall_x1_y1:PersistentLevel.moonfall_x1_y1'
+[2020.05.20-12.15.54:830][854]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x1_y0.moonfall_x1_y0:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x1_y0.moonfall_x1_y0:PersistentLevel.moonfall_x1_y0' with GeneratedClass '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x1_y0.moonfall_x1_y0_C' with ClassGeneratedBy '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x1_y0.moonfall_x1_y0:PersistentLevel.moonfall_x1_y0'
+[2020.05.20-12.15.54:830][854]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x0_y1.moonfall_x0_y1:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x0_y1.moonfall_x0_y1:PersistentLevel.moonfall_x0_y1' with GeneratedClass '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x0_y1.moonfall_x0_y1_C' with ClassGeneratedBy '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x0_y1.moonfall_x0_y1:PersistentLevel.moonfall_x0_y1'
+[2020.05.20-12.15.54:830][854]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x0_y0.moonfall_x0_y0:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x0_y0.moonfall_x0_y0:PersistentLevel.moonfall_x0_y0' with GeneratedClass '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x0_y0.moonfall_x0_y0_C' with ClassGeneratedBy '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x0_y0.moonfall_x0_y0:PersistentLevel.moonfall_x0_y0'
+[2020.05.20-12.15.54:830][854]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kevin/Map/WorldComp/moonfall/Mountain1.Mountain1:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/WorldComp/moonfall/Mountain1.Mountain1:PersistentLevel.Mountain1' with GeneratedClass '/Game/Kevin/Map/WorldComp/moonfall/Mountain1.Mountain1_C' with ClassGeneratedBy '/Game/Kevin/Map/WorldComp/moonfall/Mountain1.Mountain1:PersistentLevel.Mountain1'
+[2020.05.20-12.15.54:830][854]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Kevin/Map/WorldComp/moonfall/Mountain2.Mountain2:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/WorldComp/moonfall/Mountain2.Mountain2:PersistentLevel.Mountain2' with GeneratedClass '/Game/Kevin/Map/WorldComp/moonfall/Mountain2.Mountain2_C' with ClassGeneratedBy '/Game/Kevin/Map/WorldComp/moonfall/Mountain2.Mountain2:PersistentLevel.Mountain2'
+[2020.05.20-12.15.55:157][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.20-12.15.55:190][854]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.20-12.15.55:190][854]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kevin/Map/WorldComp/MainWorld.MainWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/WorldComp/MainWorld.MainWorld:PersistentLevel.MainWorld' with GeneratedClass '/Game/Kevin/Map/WorldComp/MainWorld.MainWorld_C' with ClassGeneratedBy '/Game/Kevin/Map/WorldComp/MainWorld.MainWorld:PersistentLevel.MainWorld'
+[2020.05.20-12.15.55:190][854]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x1_y1.moonfall_x1_y1:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x1_y1.moonfall_x1_y1:PersistentLevel.moonfall_x1_y1' with GeneratedClass '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x1_y1.moonfall_x1_y1_C' with ClassGeneratedBy '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x1_y1.moonfall_x1_y1:PersistentLevel.moonfall_x1_y1'
+[2020.05.20-12.15.55:190][854]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x1_y0.moonfall_x1_y0:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x1_y0.moonfall_x1_y0:PersistentLevel.moonfall_x1_y0' with GeneratedClass '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x1_y0.moonfall_x1_y0_C' with ClassGeneratedBy '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x1_y0.moonfall_x1_y0:PersistentLevel.moonfall_x1_y0'
+[2020.05.20-12.15.55:190][854]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x0_y1.moonfall_x0_y1:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x0_y1.moonfall_x0_y1:PersistentLevel.moonfall_x0_y1' with GeneratedClass '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x0_y1.moonfall_x0_y1_C' with ClassGeneratedBy '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x0_y1.moonfall_x0_y1:PersistentLevel.moonfall_x0_y1'
+[2020.05.20-12.15.55:190][854]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x0_y0.moonfall_x0_y0:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x0_y0.moonfall_x0_y0:PersistentLevel.moonfall_x0_y0' with GeneratedClass '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x0_y0.moonfall_x0_y0_C' with ClassGeneratedBy '/Game/Kevin/Map/WorldComp/moonfall/moonfall_x0_y0.moonfall_x0_y0:PersistentLevel.moonfall_x0_y0'
+[2020.05.20-12.15.55:190][854]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kevin/Map/WorldComp/moonfall/Mountain1.Mountain1:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/WorldComp/moonfall/Mountain1.Mountain1:PersistentLevel.Mountain1' with GeneratedClass '/Game/Kevin/Map/WorldComp/moonfall/Mountain1.Mountain1_C' with ClassGeneratedBy '/Game/Kevin/Map/WorldComp/moonfall/Mountain1.Mountain1:PersistentLevel.Mountain1'
+[2020.05.20-12.15.55:190][854]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Kevin/Map/WorldComp/moonfall/Mountain2.Mountain2:PersistentLevel' has LevelScriptBlueprint '/Game/Kevin/Map/WorldComp/moonfall/Mountain2.Mountain2:PersistentLevel.Mountain2' with GeneratedClass '/Game/Kevin/Map/WorldComp/moonfall/Mountain2.Mountain2_C' with ClassGeneratedBy '/Game/Kevin/Map/WorldComp/moonfall/Mountain2.Mountain2:PersistentLevel.Mountain2'
+[2020.05.20-12.15.55:244][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.20-12.15.55:272][854]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.05.20-12.15.55:301][855]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.05.20-12.15.55:338][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.05.20-12.15.56:017][895]LogEditorViewport: Clicking on Actor (LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.05.20-12.15.56:405][916]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.20-12.16.01:501][216]LogEditorViewport: Clicking on Actor (LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.05.20-12.16.02:087][250]LogEditorViewport: Clicking on Actor (LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.05.20-12.16.02:876][296]LogEditorViewport: Clicking on Actor (LMB): Emitter (FX_Waterfall_6)
+[2020.05.20-12.16.03:488][328]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.20-12.16.04:599][394]LogEditorViewport: Clicking on Actor (context menu): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.05.20-12.16.04:876][394]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.20-12.16.05:743][445]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Rock_Cluster_Large_05)
+[2020.05.20-12.16.05:855][445]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.20-12.16.07:867][564]LogEditorViewport: Clicking on Actor (LMB): Emitter (FX_Waterfall_6)
+[2020.05.20-12.16.08:431][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.20-12.16.17:178][101]LogEditorViewport: Clicking on Actor (LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2020.05.20-12.16.35:264][178]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.20-12.16.55:197][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.05.20-12.16.55:875][371]LogSlate: Window 'Moonfall - Unreal Editor' being destroyed
+[2020.05.20-12.16.55:889][371]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.20-12.16.56:313][372]Cmd: QUIT_EDITOR
+[2020.05.20-12.16.56:720][372]LogExit: Preparing to exit.
+[2020.05.20-12.16.57:971][372]LogExit: Editor shut down
+[2020.05.20-12.16.57:971][372]LogExit: Transaction tracking system shut down
+[2020.05.20-12.16.59:890][372]LogExit: Object subsystem successfully closed.
+[2020.05.20-12.17.00:036][372]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.05.20-12.17.00:055][372]LogD3D11RHI: Shutdown
+[2020.05.20-12.17.00:055][372]LogD3D11RHI: CleanupD3DDevice
+[2020.05.20-12.17.00:078][372]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.05.20-12.17.00:078][372]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.05.20-12.17.00:086][372]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.05.20-12.17.00:087][372]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.05.20-12.17.00:087][372]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.05.20-12.17.00:087][372]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.05.20-12.17.00:090][372]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.05.20-12.17.01:160][372]LogModuleManager: Shutting down and abandoning module MeshBuilder (694)
+[2020.05.20-12.17.01:160][372]LogModuleManager: Shutting down and abandoning module BlueprintGraph (692)
+[2020.05.20-12.17.01:160][372]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (690)
+[2020.05.20-12.17.01:160][372]LogModuleManager: Shutting down and abandoning module Voice (688)
+[2020.05.20-12.17.01:170][372]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (686)
+[2020.05.20-12.17.01:170][372]LogModuleManager: Shutting down and abandoning module SceneOutliner (684)
+[2020.05.20-12.17.01:170][372]LogModuleManager: Shutting down and abandoning module WorldBrowser (682)
+[2020.05.20-12.17.01:179][372]LogModuleManager: Shutting down and abandoning module AddContentDialog (680)
+[2020.05.20-12.17.01:196][372]LogModuleManager: Shutting down and abandoning module WidgetCarousel (679)
+[2020.05.20-12.17.01:196][372]LogModuleManager: Shutting down and abandoning module EditorWidgets (676)
+[2020.05.20-12.17.01:196][372]LogModuleManager: Shutting down and abandoning module CollectionManager (674)
+[2020.05.20-12.17.01:206][372]LogModuleManager: Shutting down and abandoning module StatsViewer (672)
+[2020.05.20-12.17.01:219][372]LogModuleManager: Shutting down and abandoning module FoliageEdit (670)
+[2020.05.20-12.17.01:229][372]LogModuleManager: Shutting down and abandoning module LandscapeEditor (668)
+[2020.05.20-12.17.01:266][372]LogModuleManager: Shutting down and abandoning module MeshPaintMode (666)
+[2020.05.20-12.17.01:276][372]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (664)
+[2020.05.20-12.17.01:276][372]LogModuleManager: Shutting down and abandoning module ActorPickerMode (662)
+[2020.05.20-12.17.01:276][372]LogModuleManager: Shutting down and abandoning module GeometryMode (660)
+[2020.05.20-12.17.01:276][372]LogModuleManager: Shutting down and abandoning module TextureAlignMode (658)
+[2020.05.20-12.17.01:276][372]LogModuleManager: Shutting down and abandoning module BspMode (656)
+[2020.05.20-12.17.01:276][372]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (654)
+[2020.05.20-12.17.01:287][372]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (652)
+[2020.05.20-12.17.01:294][372]LogModuleManager: Shutting down and abandoning module AutomationWorker (650)
+[2020.05.20-12.17.01:300][372]LogModuleManager: Shutting down and abandoning module DatasmithFBXImporter (648)
+[2020.05.20-12.17.01:305][372]LogModuleManager: Shutting down and abandoning module DatasmithDeltaGenImporter (646)
+[2020.05.20-12.17.01:305][372]LogModuleManager: Shutting down and abandoning module DatasmithVREDImporter (644)
+[2020.05.20-12.17.01:305][372]LogModuleManager: Shutting down and abandoning module OculusMR (642)
+[2020.05.20-12.17.01:305][372]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (640)
+[2020.05.20-12.17.01:313][372]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (638)
+[2020.05.20-12.17.01:313][372]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (636)
+[2020.05.20-12.17.01:335][372]LogModuleManager: Shutting down and abandoning module PlacementMode (635)
+[2020.05.20-12.17.01:335][372]LogModuleManager: Shutting down and abandoning module MaterialEditor (634)
+[2020.05.20-12.17.01:354][372]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (630)
+[2020.05.20-12.17.01:363][372]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (628)
+[2020.05.20-12.17.01:363][372]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (626)
+[2020.05.20-12.17.01:363][372]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (624)
+[2020.05.20-12.17.01:364][372]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (622)
+[2020.05.20-12.17.01:364][372]LogModuleManager: Shutting down and abandoning module WebMMedia (620)
+[2020.05.20-12.17.01:376][372]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (618)
+[2020.05.20-12.17.01:387][372]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (616)
+[2020.05.20-12.17.01:394][372]LogModuleManager: Shutting down and abandoning module SequenceRecorder (615)
+[2020.05.20-12.17.01:394][372]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (612)
+[2020.05.20-12.17.01:394][372]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (610)
+[2020.05.20-12.17.01:394][372]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (608)
+[2020.05.20-12.17.01:394][372]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (606)
+[2020.05.20-12.17.01:394][372]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (604)
+[2020.05.20-12.17.01:394][372]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (602)
+[2020.05.20-12.17.01:394][372]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (600)
+[2020.05.20-12.17.01:394][372]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (598)
+[2020.05.20-12.17.01:394][372]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (596)
+[2020.05.20-12.17.01:394][372]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (594)
+[2020.05.20-12.17.01:394][372]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (592)
+[2020.05.20-12.17.01:394][372]LogModuleManager: Shutting down and abandoning module CharacterAI (590)
+[2020.05.20-12.17.01:394][372]LogModuleManager: Shutting down and abandoning module SmartSnapping (588)
+[2020.05.20-12.17.01:394][372]LogModuleManager: Shutting down and abandoning module SessionServices (586)
+[2020.05.20-12.17.01:394][372]LogModuleManager: Shutting down and abandoning module MeshPaint (584)
+[2020.05.20-12.17.01:404][372]LogModuleManager: Shutting down and abandoning module ViewportSnapping (582)
+[2020.05.20-12.17.01:404][372]LogModuleManager: Shutting down and abandoning module ViewportInteraction (580)
+[2020.05.20-12.17.01:404][372]LogModuleManager: Shutting down and abandoning module ClothPainter (578)
+[2020.05.20-12.17.01:423][372]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (577)
+[2020.05.20-12.17.01:434][372]LogModuleManager: Shutting down and abandoning module LogVisualizer (574)
+[2020.05.20-12.17.01:453][372]LogModuleManager: Shutting down and abandoning module IntroTutorials (572)
+[2020.05.20-12.17.01:471][372]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (571)
+[2020.05.20-12.17.01:482][372]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (568)
+[2020.05.20-12.17.01:483][372]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (566)
+[2020.05.20-12.17.01:483][372]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (564)
+[2020.05.20-12.17.01:483][372]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (562)
+[2020.05.20-12.17.01:496][372]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (561)
+[2020.05.20-12.17.02:569][372]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (558)
+[2020.05.20-12.17.02:569][372]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (556)
+[2020.05.20-12.17.02:569][372]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (554)
+[2020.05.20-12.17.02:569][372]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (552)
+[2020.05.20-12.17.02:569][372]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (550)
+[2020.05.20-12.17.02:569][372]LogModuleManager: Shutting down and abandoning module InputBindingEditor (548)
+[2020.05.20-12.17.02:609][372]LogModuleManager: Shutting down and abandoning module MergeActors (546)
+[2020.05.20-12.17.02:622][372]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (544)
+[2020.05.20-12.17.02:635][372]LogModuleManager: Shutting down and abandoning module LocalizationService (543)
+[2020.05.20-12.17.02:650][372]LogModuleManager: Shutting down and abandoning module HardwareTargeting (540)
+[2020.05.20-12.17.02:650][372]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (538)
+[2020.05.20-12.17.02:660][372]LogModuleManager: Shutting down and abandoning module UndoHistory (536)
+[2020.05.20-12.17.02:670][372]LogModuleManager: Shutting down and abandoning module XmlParser (534)
+[2020.05.20-12.17.02:683][372]LogModuleManager: Shutting down and abandoning module Blutility (532)
+[2020.05.20-12.17.02:683][372]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (530)
+[2020.05.20-12.17.02:683][372]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (529)
+[2020.05.20-12.17.02:683][372]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (526)
+[2020.05.20-12.17.02:683][372]LogModuleManager: Shutting down and abandoning module SettingsEditor (524)
+[2020.05.20-12.17.02:694][372]LogModuleManager: Shutting down and abandoning module ProjectLauncher (522)
+[2020.05.20-12.17.02:708][372]LogModuleManager: Shutting down and abandoning module SessionFrontend (520)
+[2020.05.20-12.17.02:717][372]LogModuleManager: Shutting down and abandoning module ProfilerClient (518)
+[2020.05.20-12.17.02:729][372]LogModuleManager: Shutting down and abandoning module DeviceManager (516)
+[2020.05.20-12.17.02:737][372]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (515)
+[2020.05.20-12.17.02:793][372]LogModuleManager: Shutting down and abandoning module AutomationController (512)
+[2020.05.20-12.17.02:804][372]LogModuleManager: Shutting down and abandoning module AutomationWindow (510)
+[2020.05.20-12.17.02:815][372]LogModuleManager: Shutting down and abandoning module Layers (508)
+[2020.05.20-12.17.02:826][372]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (506)
+[2020.05.20-12.17.02:826][372]LogModuleManager: Shutting down and abandoning module DetailCustomizations (504)
+[2020.05.20-12.17.02:836][372]LogModuleManager: Shutting down and abandoning module PackagesDialog (502)
+[2020.05.20-12.17.02:836][372]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (500)
+[2020.05.20-12.17.02:857][372]LogModuleManager: Shutting down and abandoning module Persona (498)
+[2020.05.20-12.17.02:885][372]LogModuleManager: Shutting down and abandoning module AnimGraph (497)
+[2020.05.20-12.17.02:885][372]LogModuleManager: Shutting down and abandoning module Kismet (494)
+[2020.05.20-12.17.02:893][372]LogModuleManager: Shutting down and abandoning module GraphEditor (492)
+[2020.05.20-12.17.02:899][372]LogModuleManager: Shutting down and abandoning module ClassViewer (490)
+[2020.05.20-12.17.02:900][372]LogModuleManager: Shutting down and abandoning module Toolbox (488)
+[2020.05.20-12.17.02:900][372]LogModuleManager: Shutting down and abandoning module ModuleUI (486)
+[2020.05.20-12.17.02:908][372]LogModuleManager: Shutting down and abandoning module MovieSceneTools (484)
+[2020.05.20-12.17.02:918][372]LogModuleManager: Shutting down and abandoning module OutputLog (482)
+[2020.05.20-12.17.02:918][372]LogModuleManager: Shutting down and abandoning module GammaUI (480)
+[2020.05.20-12.17.02:926][372]LogModuleManager: Shutting down and abandoning module Documentation (478)
+[2020.05.20-12.17.02:926][372]LogModuleManager: Shutting down and abandoning module LiveCoding (476)
+[2020.05.20-12.17.02:937][372]LogModuleManager: Shutting down and abandoning module LevelSequence (474)
+[2020.05.20-12.17.02:937][372]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (472)
+[2020.05.20-12.17.02:937][372]LogModuleManager: Shutting down and abandoning module MovieScene (470)
+[2020.05.20-12.17.02:937][372]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (468)
+[2020.05.20-12.17.02:937][372]LogModuleManager: Shutting down and abandoning module LauncherPlatform (466)
+[2020.05.20-12.17.02:937][372]LogModuleManager: Shutting down and abandoning module AnalyticsET (464)
+[2020.05.20-12.17.02:937][372]LogModuleManager: Shutting down and abandoning module PortalServices (462)
+[2020.05.20-12.17.02:937][372]LogModuleManager: Shutting down and abandoning module PortalRpc (460)
+[2020.05.20-12.17.02:937][372]LogModuleManager: Shutting down and abandoning module MessagingRpc (458)
+[2020.05.20-12.17.02:937][372]LogModuleManager: Shutting down and abandoning module AIModule (456)
+[2020.05.20-12.17.02:937][372]LogModuleManager: Shutting down and abandoning module GameplayDebugger (455)
+[2020.05.20-12.17.02:937][372]LogModuleManager: Shutting down and abandoning module AITestSuite (453)
+[2020.05.20-12.17.02:944][372]LogModuleManager: Shutting down and abandoning module NavigationSystem (451)
+[2020.05.20-12.17.02:944][372]LogModuleManager: Shutting down and abandoning module DesktopPlatform (448)
+[2020.05.20-12.17.02:944][372]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (446)
+[2020.05.20-12.17.02:947][372]LogModuleManager: Shutting down and abandoning module ProfilerService (444)
+[2020.05.20-12.17.03:090][372]LogModuleManager: Shutting down and abandoning module TaskGraph (442)
+[2020.05.20-12.17.03:104][372]LogModuleManager: Shutting down and abandoning module DatasmithCADImporter (440)
+[2020.05.20-12.17.03:105][372]LogModuleManager: Shutting down and abandoning module VariantManager (438)
+[2020.05.20-12.17.03:120][372]LogModuleManager: Shutting down and abandoning module StaticMeshEditorExtension (436)
+[2020.05.20-12.17.03:128][372]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (435)
+[2020.05.20-12.17.03:143][372]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (434)
+[2020.05.20-12.17.03:143][372]LogModuleManager: Shutting down and abandoning module MeshProcessingLibrary (431)
+[2020.05.20-12.17.03:143][372]LogModuleManager: Shutting down and abandoning module MDLImporter (428)
+[2020.05.20-12.17.03:155][372]LogModuleManager: Shutting down and abandoning module DatasmithGLTFImporter (426)
+[2020.05.20-12.17.03:164][372]LogModuleManager: Shutting down and abandoning module DatasmithImporter (425)
+[2020.05.20-12.17.03:197][372]LogModuleManager: Shutting down and abandoning module DatasmithDataPrepLibraries (422)
+[2020.05.20-12.17.03:206][372]LogModuleManager: Shutting down and abandoning module DatasmithDataPrepEditor (420)
+[2020.05.20-12.17.03:228][372]LogModuleManager: Shutting down and abandoning module SteamVRController (418)
+[2020.05.20-12.17.03:228][372]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (416)
+[2020.05.20-12.17.03:238][372]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (414)
+[2020.05.20-12.17.03:249][372]LogModuleManager: Shutting down and abandoning module OculusEditor (412)
+[2020.05.20-12.17.03:260][372]LogModuleManager: Shutting down and abandoning module OculusInput (410)
+[2020.05.20-12.17.03:260][372]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (408)
+[2020.05.20-12.17.03:260][372]LogModuleManager: Shutting down and abandoning module EditableMesh (406)
+[2020.05.20-12.17.03:267][372]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (404)
+[2020.05.20-12.17.03:267][372]LogModuleManager: Shutting down and abandoning module CableComponent (402)
+[2020.05.20-12.17.03:267][372]LogModuleManager: Shutting down and abandoning module AudioCapture (400)
+[2020.05.20-12.17.03:267][372]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (398)
+[2020.05.20-12.17.03:267][372]LogModuleManager: Shutting down and abandoning module AndroidPermission (396)
+[2020.05.20-12.17.03:267][372]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (394)
+[2020.05.20-12.17.03:272][372]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (392)
+[2020.05.20-12.17.03:282][372]LogModuleManager: Shutting down and abandoning module MediaCompositing (390)
+[2020.05.20-12.17.03:282][372]LogModuleManager: Shutting down and abandoning module LinearTimecode (388)
+[2020.05.20-12.17.03:282][372]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2020.05.20-12.17.03:282][372]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2020.05.20-12.17.03:282][372]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2020.05.20-12.17.03:294][372]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2020.05.20-12.17.03:303][372]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2020.05.20-12.17.03:303][372]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (376)
+[2020.05.20-12.17.03:304][372]LogModuleManager: Shutting down and abandoning module GeometryCollectionExampleCore (374)
+[2020.05.20-12.17.03:314][372]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (372)
+[2020.05.20-12.17.03:314][372]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (370)
+[2020.05.20-12.17.03:314][372]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (368)
+[2020.05.20-12.17.03:314][372]LogModuleManager: Shutting down and abandoning module BlastAuthoring (366)
+[2020.05.20-12.17.03:314][372]LogModuleManager: Shutting down and abandoning module BackChannel (364)
+[2020.05.20-12.17.03:323][372]LogModuleManager: Shutting down and abandoning module AppleVision (362)
+[2020.05.20-12.17.03:323][372]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (360)
+[2020.05.20-12.17.03:323][372]LogModuleManager: Shutting down and abandoning module AppleImageUtils (358)
+[2020.05.20-12.17.03:323][372]LogModuleManager: Shutting down and abandoning module AlembicImporter (356)
+[2020.05.20-12.17.03:323][372]LogModuleManager: Shutting down and abandoning module AlembicLibrary (355)
+[2020.05.20-12.17.03:323][372]LogModuleManager: Shutting down and abandoning module GeometryCache (354)
+[2020.05.20-12.17.03:323][372]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (353)
+[2020.05.20-12.17.03:323][372]LogModuleManager: Shutting down and abandoning module VariantManagerContent (348)
+[2020.05.20-12.17.03:323][372]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (346)
+[2020.05.20-12.17.03:323][372]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (344)
+[2020.05.20-12.17.03:323][372]LogModuleManager: Shutting down and abandoning module PluginBrowser (342)
+[2020.05.20-12.17.03:347][372]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (340)
+[2020.05.20-12.17.03:358][372]LogModuleManager: Shutting down and abandoning module PolygonModeling (338)
+[2020.05.20-12.17.03:358][372]LogModuleManager: Shutting down and abandoning module MeshEditor (336)
+[2020.05.20-12.17.03:358][372]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (334)
+[2020.05.20-12.17.03:367][372]LogModuleManager: Shutting down and abandoning module GLTFImporter (332)
+[2020.05.20-12.17.03:367][372]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (330)
+[2020.05.20-12.17.03:367][372]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2020.05.20-12.17.03:367][372]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2020.05.20-12.17.03:367][372]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2020.05.20-12.17.03:378][372]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2020.05.20-12.17.03:378][372]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2020.05.20-12.17.03:378][372]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2020.05.20-12.17.03:382][372]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2020.05.20-12.17.03:387][372]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2020.05.20-12.17.03:401][372]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2020.05.20-12.17.03:409][372]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2020.05.20-12.17.03:409][372]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2020.05.20-12.17.03:409][372]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2020.05.20-12.17.03:409][372]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2020.05.20-12.17.03:409][372]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2020.05.20-12.17.03:409][372]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2020.05.20-12.17.03:409][372]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2020.05.20-12.17.03:410][372]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2020.05.20-12.17.03:435][372]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2020.05.20-12.17.03:435][372]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2020.05.20-12.17.03:435][372]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2020.05.20-12.17.03:435][372]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2020.05.20-12.17.03:435][372]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2020.05.20-12.17.03:435][372]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.05.20-12.17.03:435][372]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.05.20-12.17.03:535][372]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.05.20-12.17.03:648][372]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2020.05.20-12.17.03:648][372]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2020.05.20-12.17.03:648][372]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2020.05.20-12.17.03:655][372]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2020.05.20-12.17.03:656][372]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2020.05.20-12.17.03:666][372]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.05.20-12.17.03:666][372]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2020.05.20-12.17.03:666][372]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2020.05.20-12.17.03:666][372]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2020.05.20-12.17.03:676][372]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2020.05.20-12.17.03:676][372]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2020.05.20-12.17.03:676][372]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2020.05.20-12.17.03:676][372]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2020.05.20-12.17.03:693][372]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2020.05.20-12.17.03:705][372]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2020.05.20-12.17.03:709][372]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2020.05.20-12.17.03:709][372]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2020.05.20-12.17.03:709][372]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2020.05.20-12.17.03:734][372]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2020.05.20-12.17.03:734][372]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2020.05.20-12.17.03:743][372]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2020.05.20-12.17.03:743][372]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.05.20-12.17.03:743][372]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2020.05.20-12.17.03:743][372]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2020.05.20-12.17.03:750][372]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2020.05.20-12.17.03:767][372]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2020.05.20-12.17.03:784][372]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.05.20-12.17.03:784][372]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.05.20-12.17.03:784][372]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.05.20-12.17.03:792][372]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.05.20-12.17.03:792][372]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2020.05.20-12.17.03:792][372]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2020.05.20-12.17.03:792][372]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2020.05.20-12.17.03:800][372]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2020.05.20-12.17.03:809][372]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2020.05.20-12.17.03:809][372]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2020.05.20-12.17.03:825][372]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2020.05.20-12.17.03:829][372]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2020.05.20-12.17.03:840][372]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2020.05.20-12.17.03:855][372]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2020.05.20-12.17.03:855][372]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2020.05.20-12.17.03:867][372]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2020.05.20-12.17.03:922][372]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2020.05.20-12.17.03:922][372]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2020.05.20-12.17.03:947][372]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2020.05.20-12.17.03:947][372]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2020.05.20-12.17.03:948][372]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2020.05.20-12.17.03:955][372]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.05.20-12.17.03:955][372]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.05.20-12.17.03:955][372]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.05.20-12.17.03:955][372]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.05.20-12.17.03:955][372]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.05.20-12.17.03:955][372]LogModuleManager: Shutting down and abandoning module Core (174)
+[2020.05.20-12.17.03:955][372]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2020.05.20-12.17.03:955][372]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2020.05.20-12.17.03:955][372]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2020.05.20-12.17.03:966][372]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2020.05.20-12.17.03:966][372]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2020.05.20-12.17.03:973][372]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2020.05.20-12.17.03:985][372]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2020.05.20-12.17.03:998][372]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2020.05.20-12.17.04:010][372]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2020.05.20-12.17.04:012][372]LogDerivedDataCache: Shutdown
+[2020.05.20-12.17.04:012][372]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2020.05.20-12.17.04:012][372]LogXGEController: Cleaning working directory: C:/Users/Rhys Davies/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.05.20-12.17.04:023][372]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2020.05.20-12.17.04:037][372]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2020.05.20-12.17.04:065][372]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2020.05.20-12.17.04:069][372]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2020.05.20-12.17.04:078][372]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2020.05.20-12.17.04:092][372]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2020.05.20-12.17.04:105][372]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2020.05.20-12.17.04:105][372]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2020.05.20-12.17.04:105][372]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2020.05.20-12.17.04:124][372]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2020.05.20-12.17.04:125][372]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2020.05.20-12.17.04:125][372]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2020.05.20-12.17.04:125][372]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2020.05.20-12.17.04:125][372]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2020.05.20-12.17.04:140][372]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2020.05.20-12.17.04:140][372]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2020.05.20-12.17.04:151][372]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2020.05.20-12.17.04:177][372]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2020.05.20-12.17.04:177][372]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2020.05.20-12.17.04:181][372]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2020.05.20-12.17.04:187][372]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2020.05.20-12.17.04:187][372]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2020.05.20-12.17.04:188][372]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2020.05.20-12.17.04:188][372]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2020.05.20-12.17.04:188][372]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2020.05.20-12.17.04:188][372]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2020.05.20-12.17.04:192][372]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2020.05.20-12.17.04:192][372]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2020.05.20-12.17.04:192][372]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2020.05.20-12.17.04:192][372]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2020.05.20-12.17.04:192][372]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2020.05.20-12.17.04:193][372]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2020.05.20-12.17.04:193][372]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2020.05.20-12.17.04:193][372]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2020.05.20-12.17.04:193][372]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2020.05.20-12.17.04:193][372]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2020.05.20-12.17.04:193][372]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2020.05.20-12.17.04:193][372]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2020.05.20-12.17.04:193][372]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2020.05.20-12.17.04:193][372]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2020.05.20-12.17.04:203][372]LogHMD: Freeing OpenVRDLLHandle.
+[2020.05.20-12.17.04:203][372]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2020.05.20-12.17.04:211][372]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2020.05.20-12.17.04:211][372]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2020.05.20-12.17.04:211][372]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2020.05.20-12.17.04:211][372]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2020.05.20-12.17.04:212][372]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2020.05.20-12.17.04:218][372]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2020.05.20-12.17.04:254][372]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2020.05.20-12.17.04:254][372]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.05.20-12.17.04:254][372]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B53CB15DB-40A7-9955-2525-7B953F5EDAE5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=30bf4a0345d6d2a67546bf853be30791%7C73057518147d488a9dcd2da247824bea%7Cbcae9ff1-2e96-4b8a-b307-aae37fe223f4&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.05.20-12.17.04:286][372]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2020.05.20-12.17.04:288][372]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2020.05.20-12.17.04:296][372]LogModuleManager: Shutting down and abandoning module Media (45)
+[2020.05.20-12.17.04:302][372]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2020.05.20-12.17.04:314][372]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2020.05.20-12.17.04:314][372]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.05.20-12.17.04:320][372]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.05.20-12.17.04:334][372]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.05.20-12.17.04:379][372]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.05.20-12.17.04:380][372]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.05.20-12.17.04:380][372]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.05.20-12.17.04:380][372]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.05.20-12.17.04:387][372]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.05.20-12.17.04:393][372]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.05.20-12.17.04:393][372]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.05.20-12.17.04:393][372]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.05.20-12.17.04:393][372]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.05.20-12.17.04:393][372]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.05.20-12.17.04:393][372]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.05.20-12.17.04:403][372]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.05.20-12.17.04:403][372]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.05.20-12.17.04:409][372]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.05.20-12.17.04:409][372]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.05.20-12.17.04:419][372]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.05.20-12.17.04:444][372]LogExit: Exiting.
+[2020.05.20-12.17.04:450][372]Log file closed, 05/20/20 13:17:04
